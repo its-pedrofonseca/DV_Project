@@ -1,0 +1,171 @@
+,raceId,year,round,circuitId,name_x,date,time,constructorStandingsId,constructorId,points,position,positionText,wins,constructorRef,name_y,nationality
+0,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27582,210,0.0,10,10,0,haas,Haas F1 Team,American
+1,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27492,210,0.0,10,10,0,haas,Haas F1 Team,American
+2,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27512,210,1.0,9,9,0,haas,Haas F1 Team,American
+3,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27522,210,1.0,9,9,0,haas,Haas F1 Team,American
+4,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27532,210,1.0,9,9,0,haas,Haas F1 Team,American
+5,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27542,210,1.0,9,9,0,haas,Haas F1 Team,American
+6,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27552,210,1.0,9,9,0,haas,Haas F1 Team,American
+7,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27562,210,1.0,9,9,0,haas,Haas F1 Team,American
+8,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27572,210,1.0,9,9,0,haas,Haas F1 Team,American
+9,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27592,210,1.0,9,9,0,haas,Haas F1 Team,American
+10,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27602,210,3.0,9,9,0,haas,Haas F1 Team,American
+11,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27612,210,3.0,9,9,0,haas,Haas F1 Team,American
+12,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27622,210,3.0,9,9,0,haas,Haas F1 Team,American
+13,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27632,210,3.0,9,9,0,haas,Haas F1 Team,American
+14,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27642,210,3.0,9,9,0,haas,Haas F1 Team,American
+15,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27652,210,3.0,9,9,0,haas,Haas F1 Team,American
+16,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27662,210,3.0,9,9,0,haas,Haas F1 Team,American
+17,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27581,9,0.0,9,9,0,red_bull,Red Bull,Austrian
+18,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27491,9,27.0,3,3,0,red_bull,Red Bull,Austrian
+19,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27511,9,55.0,2,2,0,red_bull,Red Bull,Austrian
+20,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27521,9,78.0,2,2,0,red_bull,Red Bull,Austrian
+21,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27531,9,113.0,2,2,1,red_bull,Red Bull,Austrian
+22,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27541,9,135.0,2,2,1,red_bull,Red Bull,Austrian
+23,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27551,9,158.0,2,2,1,red_bull,Red Bull,Austrian
+24,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27561,9,158.0,2,2,1,red_bull,Red Bull,Austrian
+25,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27571,9,173.0,2,2,1,red_bull,Red Bull,Austrian
+26,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27591,9,192.0,2,2,1,red_bull,Red Bull,Austrian
+27,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27601,9,211.0,2,2,1,red_bull,Red Bull,Austrian
+28,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27611,9,226.0,2,2,1,red_bull,Red Bull,Austrian
+29,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27621,9,226.0,2,2,1,red_bull,Red Bull,Austrian
+30,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27631,9,240.0,2,2,1,red_bull,Red Bull,Austrian
+31,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27641,9,274.0,2,2,1,red_bull,Red Bull,Austrian
+32,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27651,9,282.0,2,2,1,red_bull,Red Bull,Austrian
+33,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27661,9,319.0,2,2,2,red_bull,Red Bull,Austrian
+34,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27580,3,0.0,8,8,0,williams,Williams,British
+35,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27490,3,0.0,9,9,0,williams,Williams,British
+36,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27510,3,0.0,10,10,0,williams,Williams,British
+37,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27520,3,0.0,10,10,0,williams,Williams,British
+38,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27530,3,0.0,10,10,0,williams,Williams,British
+39,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27540,3,0.0,10,10,0,williams,Williams,British
+40,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27550,3,0.0,10,10,0,williams,Williams,British
+41,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27560,3,0.0,10,10,0,williams,Williams,British
+42,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27570,3,0.0,10,10,0,williams,Williams,British
+43,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27590,3,0.0,10,10,0,williams,Williams,British
+44,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27600,3,0.0,10,10,0,williams,Williams,British
+45,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27610,3,0.0,10,10,0,williams,Williams,British
+46,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27620,3,0.0,10,10,0,williams,Williams,British
+47,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27630,3,0.0,10,10,0,williams,Williams,British
+48,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27640,3,0.0,10,10,0,williams,Williams,British
+49,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27650,3,0.0,10,10,0,williams,Williams,British
+50,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27660,3,0.0,10,10,0,williams,Williams,British
+51,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27579,51,2.0,7,7,0,alfa,Alfa Romeo,Italian
+52,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27489,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+53,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27509,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+54,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27519,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+55,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27529,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+56,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27539,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+57,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27549,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+58,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27559,51,2.0,8,8,0,alfa,Alfa Romeo,Italian
+59,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27569,51,4.0,8,8,0,alfa,Alfa Romeo,Italian
+60,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27589,51,4.0,8,8,0,alfa,Alfa Romeo,Italian
+61,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27599,51,5.0,8,8,0,alfa,Alfa Romeo,Italian
+62,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27609,51,5.0,8,8,0,alfa,Alfa Romeo,Italian
+63,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27619,51,8.0,8,8,0,alfa,Alfa Romeo,Italian
+64,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27629,51,8.0,8,8,0,alfa,Alfa Romeo,Italian
+65,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27639,51,8.0,8,8,0,alfa,Alfa Romeo,Italian
+66,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27649,51,8.0,8,8,0,alfa,Alfa Romeo,Italian
+67,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27659,51,8.0,8,8,0,alfa,Alfa Romeo,Italian
+68,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27578,4,4.0,6,6,0,renault,Renault,French
+69,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27488,4,8.0,6,6,0,renault,Renault,French
+70,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27508,4,12.0,6,6,0,renault,Renault,French
+71,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27518,4,32.0,6,6,0,renault,Renault,French
+72,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27528,4,36.0,6,6,0,renault,Renault,French
+73,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27538,4,36.0,6,6,0,renault,Renault,French
+74,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27548,4,59.0,6,6,0,renault,Renault,French
+75,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27558,4,71.0,5,5,0,renault,Renault,French
+76,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27568,4,83.0,5,5,0,renault,Renault,French
+77,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27588,4,99.0,5,5,0,renault,Renault,French
+78,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27598,4,114.0,5,5,0,renault,Renault,French
+79,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27608,4,120.0,5,5,0,renault,Renault,French
+80,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27618,4,135.0,3,3,0,renault,Renault,French
+81,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27628,4,136.0,5,5,0,renault,Renault,French
+82,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27638,4,144.0,5,5,0,renault,Renault,French
+83,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27648,4,172.0,5,5,0,renault,Renault,French
+84,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27658,4,181.0,5,5,0,renault,Renault,French
+85,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27577,213,6.0,5,5,0,alphatauri,AlphaTauri,Italian
+86,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27487,213,7.0,7,7,0,alphatauri,AlphaTauri,Italian
+87,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27507,213,7.0,7,7,0,alphatauri,AlphaTauri,Italian
+88,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27517,213,13.0,7,7,0,alphatauri,AlphaTauri,Italian
+89,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27527,213,14.0,7,7,0,alphatauri,AlphaTauri,Italian
+90,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27537,213,16.0,7,7,0,alphatauri,AlphaTauri,Italian
+91,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27547,213,20.0,7,7,0,alphatauri,AlphaTauri,Italian
+92,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27557,213,47.0,7,7,1,alphatauri,AlphaTauri,Italian
+93,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27567,213,53.0,7,7,1,alphatauri,AlphaTauri,Italian
+94,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27587,213,59.0,7,7,1,alphatauri,AlphaTauri,Italian
+95,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27597,213,67.0,7,7,1,alphatauri,AlphaTauri,Italian
+96,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27607,213,77.0,7,7,1,alphatauri,AlphaTauri,Italian
+97,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27617,213,89.0,7,7,1,alphatauri,AlphaTauri,Italian
+98,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27627,213,89.0,7,7,1,alphatauri,AlphaTauri,Italian
+99,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27637,213,97.0,7,7,1,alphatauri,AlphaTauri,Italian
+100,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27647,213,103.0,7,7,1,alphatauri,AlphaTauri,Italian
+101,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27657,213,107.0,7,7,1,alphatauri,AlphaTauri,Italian
+102,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27576,211,8.0,4,4,0,racing_point,Racing Point,British
+103,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27486,211,22.0,4,4,0,racing_point,Racing Point,British
+104,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27506,211,40.0,4,4,0,racing_point,Racing Point,British
+105,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27516,211,42.0,5,5,0,racing_point,Racing Point,British
+106,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27526,211,41.0,5,5,0,racing_point,Racing Point,British
+107,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27536,211,63.0,3,3,0,racing_point,Racing Point,British
+108,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27546,211,66.0,4,4,0,racing_point,Racing Point,British
+109,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27556,211,82.0,4,4,0,racing_point,Racing Point,British
+110,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27566,211,92.0,4,4,0,racing_point,Racing Point,British
+111,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27586,211,104.0,4,4,0,racing_point,Racing Point,British
+112,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27596,211,120.0,3,3,0,racing_point,Racing Point,British
+113,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27606,211,126.0,3,3,0,racing_point,Racing Point,British
+114,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27616,211,134.0,5,5,0,racing_point,Racing Point,British
+115,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27626,211,154.0,3,3,0,racing_point,Racing Point,British
+116,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27636,211,154.0,4,4,0,racing_point,Racing Point,British
+117,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27646,211,194.0,3,3,1,racing_point,Racing Point,British
+118,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27656,211,195.0,4,4,1,racing_point,Racing Point,British
+119,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27575,1,26.0,2,2,0,mclaren,McLaren,British
+120,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27485,1,39.0,2,2,0,mclaren,McLaren,British
+121,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27505,1,41.0,3,3,0,mclaren,McLaren,British
+122,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27515,1,51.0,3,3,0,mclaren,McLaren,British
+123,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27525,1,53.0,4,4,0,mclaren,McLaren,British
+124,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27535,1,62.0,4,4,0,mclaren,McLaren,British
+125,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27545,1,68.0,3,3,0,mclaren,McLaren,British
+126,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27555,1,98.0,3,3,0,mclaren,McLaren,British
+127,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27565,1,106.0,3,3,0,mclaren,McLaren,British
+128,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27585,1,106.0,3,3,0,mclaren,McLaren,British
+129,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27595,1,116.0,4,4,0,mclaren,McLaren,British
+130,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27605,1,124.0,4,4,0,mclaren,McLaren,British
+131,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27615,1,134.0,4,4,0,mclaren,McLaren,British
+132,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27625,1,149.0,4,4,0,mclaren,McLaren,British
+133,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27635,1,171.0,3,3,0,mclaren,McLaren,British
+134,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27645,1,184.0,4,4,0,mclaren,McLaren,British
+135,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27655,1,202.0,3,3,0,mclaren,McLaren,British
+136,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27574,6,19.0,3,3,0,ferrari,Ferrari,Italian
+137,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27484,6,19.0,5,5,0,ferrari,Ferrari,Italian
+138,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27504,6,27.0,5,5,0,ferrari,Ferrari,Italian
+139,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27514,6,43.0,4,4,0,ferrari,Ferrari,Italian
+140,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27524,6,55.0,3,3,0,ferrari,Ferrari,Italian
+141,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27534,6,61.0,5,5,0,ferrari,Ferrari,Italian
+142,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27544,6,61.0,5,5,0,ferrari,Ferrari,Italian
+143,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27554,6,61.0,6,6,0,ferrari,Ferrari,Italian
+144,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27564,6,66.0,6,6,0,ferrari,Ferrari,Italian
+145,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27584,6,74.0,6,6,0,ferrari,Ferrari,Italian
+146,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27594,6,80.0,6,6,0,ferrari,Ferrari,Italian
+147,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27604,6,93.0,6,6,0,ferrari,Ferrari,Italian
+148,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27614,6,103.0,6,6,0,ferrari,Ferrari,Italian
+149,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27624,6,130.0,6,6,0,ferrari,Ferrari,Italian
+150,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27634,6,131.0,6,6,0,ferrari,Ferrari,Italian
+151,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27644,6,131.0,6,6,0,ferrari,Ferrari,Italian
+152,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27654,6,131.0,6,6,0,ferrari,Ferrari,Italian
+153,1031,2020,1,70,Austrian Grand Prix,2020-07-05,13:10:00,27573,131,37.0,1,1,1,mercedes,Mercedes,German
+154,1032,2020,2,70,Styrian Grand Prix,2020-07-12,13:10:00,27483,131,80.0,1,1,2,mercedes,Mercedes,German
+155,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,13:10:00,27503,131,121.0,1,1,3,mercedes,Mercedes,German
+156,1034,2020,4,9,British Grand Prix,2020-08-02,13:10:00,27513,131,146.0,1,1,4,mercedes,Mercedes,German
+157,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,13:10:00,27523,131,180.0,1,1,4,mercedes,Mercedes,German
+158,1036,2020,6,4,Spanish Grand Prix,2020-08-16,13:10:00,27533,131,221.0,1,1,5,mercedes,Mercedes,German
+159,1037,2020,7,13,Belgian Grand Prix,2020-08-30,13:10:00,27543,131,264.0,1,1,6,mercedes,Mercedes,German
+160,1038,2020,8,14,Italian Grand Prix,2020-09-06,13:10:00,27553,131,281.0,1,1,6,mercedes,Mercedes,German
+161,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,13:10:00,27563,131,325.0,1,1,7,mercedes,Mercedes,German
+162,1040,2020,10,71,Russian Grand Prix,2020-09-27,11:10:00,27583,131,366.0,1,1,8,mercedes,Mercedes,German
+163,1041,2020,11,20,Eifel Grand Prix,2020-10-11,13:10:00,27593,131,391.0,1,1,9,mercedes,Mercedes,German
+164,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,12:10:00,27603,131,435.0,1,1,10,mercedes,Mercedes,German
+165,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,12:10:00,27613,131,479.0,1,1,11,mercedes,Mercedes,German
+166,1044,2020,14,5,Turkish Grand Prix,2020-11-15,10:10:00,27623,131,504.0,1,1,12,mercedes,Mercedes,German
+167,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,14:10:00,27633,131,533.0,1,1,13,mercedes,Mercedes,German
+168,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,17:10:00,27643,131,540.0,1,1,13,mercedes,Mercedes,German
+169,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,13:10:00,27653,131,573.0,1,1,13,mercedes,Mercedes,German
