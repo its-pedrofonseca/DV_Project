@@ -74,7 +74,7 @@ def render_page_content(pathname):
     elif pathname == "/constructors":
         return constructors.layout
     elif pathname == "/racetracks":
-        return racetracks.layout
+        return racetracks.app.layout
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
         [
