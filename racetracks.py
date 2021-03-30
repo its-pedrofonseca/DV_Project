@@ -7,10 +7,10 @@ import plotly.graph_objs as go
 import pandas as pd
 import app
 
-path = 'datasets/f1_2020_drivers.csv'
-df = pd.read_csv(path, error_bad_lines=False)
+#path = 'datasets/f1_2020_drivers.csv'
+#df = pd.read_csv(path, error_bad_lines=False)
 
-df_racetracks = df[['lat', "lng", "name_y", "location", "country"]]
+#df_racetracks = df[['lat', "lng", "name_y", "location", "country"]]
 
 F1_LOGO = "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png"
 
@@ -83,7 +83,7 @@ layout = html.Div([
         ], style={'width': '20%', 'background-color': '#ffff00'}, className=''),
 
         html.Div([
-            dcc.Graph(id='graph_example')
+            dcc.Graph(id='graph_example1')
         ], style={'width': '80%'}, className='box')
     ], style={'display': 'flex'}),
 
@@ -93,7 +93,7 @@ layout = html.Div([
 ])
 
 @app.app.callback(
-    Output('graph_example', 'figure'),
+    Output('graph_example1', 'figure'),
     [Input('country_drop', 'value'),
      Input('gas_radio', 'value'),
      Input('year_slider', 'value')]

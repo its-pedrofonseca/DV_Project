@@ -1,341 +1,341 @@
-,raceId,year,round,circuitId,name_x,date,resultId,driverId,constructorId,position,points,laps,rank,fastestLapTime,fastestLapSpeed,driverRef,number_y,code,forename,surname,nationality,name_y,location,country,lat,lng
-0,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24626,822,131,1,25.0,71,2,1:07.657,229.758,bottas,77,BOT,Valtteri,Bottas,Finnish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-1,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24647,822,131,2,18.0,71,7,1:07.534,230.177,bottas,77,BOT,Valtteri,Bottas,Finnish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-2,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24627,844,6,2,18.0,71,4,1:07.901,228.933,leclerc,16,LEC,Charles,Leclerc,Monegasque,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-3,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24664,844,6,\N,0.0,4,19,1:35.379,162.979,leclerc,16,LEC,Charles,Leclerc,Monegasque,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-4,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24628,846,1,3,16.0,71,1,1:07.475,230.378,norris,4,NOR,Lando,Norris,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-5,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24650,846,1,5,10.0,71,5,1:07.193,231.345,norris,4,NOR,Lando,Norris,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-6,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24629,1,131,4,12.0,71,3,1:07.712,229.572,hamilton,44,HAM,Lewis,Hamilton,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-7,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24646,1,131,1,25.0,71,3,1:06.719,232.989,hamilton,44,HAM,Lewis,Hamilton,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-8,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24630,832,1,5,10.0,71,5,1:07.974,228.687,sainz,55,SAI,Carlos,Sainz,Spanish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-9,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24654,832,1,9,3.0,70,1,1:05.619,236.894,sainz,55,SAI,Carlos,Sainz,Spanish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-10,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24631,815,211,6,8.0,71,6,1:08.305,227.579,perez,11,PER,Sergio,PÃ©rez,Mexican,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-11,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24651,815,211,6,8.0,71,4,1:07.188,231.362,perez,11,PER,Sergio,PÃ©rez,Mexican,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-12,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24632,842,213,7,6.0,71,11,1:09.025,225.205,gasly,10,GAS,Pierre,Gasly,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-13,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24660,842,213,15,0.0,70,8,1:07.827,229.183,gasly,10,GAS,Pierre,Gasly,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-14,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24633,839,4,8,4.0,71,10,1:08.932,225.509,ocon,31,OCO,Esteban,Ocon,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-15,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24663,839,4,\N,0.0,25,18,1:09.321,224.243,ocon,31,OCO,Esteban,Ocon,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-16,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24634,841,51,9,2.0,71,9,1:08.796,225.954,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-17,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24659,841,51,14,0.0,70,15,1:08.512,226.891,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-18,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24635,20,6,10,1.0,71,8,1:08.623,226.524,vettel,5,VET,Sebastian,Vettel,German,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-19,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24665,20,6,\N,0.0,1,0,\N,\N,vettel,5,VET,Sebastian,Vettel,German,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-20,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24636,849,3,11,0.0,71,16,1:09.662,223.146,latifi,6,LAT,Nicholas,Latifi,Canadian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-21,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24662,849,3,17,0.0,69,17,1:08.806,225.922,latifi,6,LAT,Nicholas,Latifi,Canadian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-22,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24637,826,213,12,0.0,69,13,1:09.135,224.847,kvyat,26,KVY,Daniil,Kvyat,Russian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-23,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24655,826,213,10,1.0,70,13,1:08.378,227.336,kvyat,26,KVY,Daniil,Kvyat,Russian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-24,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24638,848,9,13,0.0,67,7,1:08.432,227.156,albon,23,ALB,Alexander,Albon,Thai,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-25,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24649,848,9,4,12.0,71,6,1:07.299,230.981,albon,23,ALB,Alexander,Albon,Thai,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-26,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24639,8,51,\N,0.0,53,12,1:09.031,225.185,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-27,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24656,8,51,11,0.0,70,14,1:08.382,227.322,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-28,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24640,847,3,\N,0.0,49,14,1:09.317,224.256,russell,63,RUS,George,Russell,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-29,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24661,847,3,16,0.0,69,16,1:08.601,226.597,russell,63,RUS,George,Russell,British,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-30,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24641,154,210,\N,0.0,49,17,1:10.228,221.347,grosjean,8,GRO,Romain,Grosjean,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-31,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24658,154,210,13,0.0,70,12,1:08.047,228.442,grosjean,8,GRO,Romain,Grosjean,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-32,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24642,825,210,\N,0.0,24,20,1:10.720,219.807,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-33,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24657,825,210,12,0.0,70,11,1:08.009,228.569,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-34,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24643,840,211,\N,0.0,20,18,1:10.326,221.039,stroll,18,STR,Lance,Stroll,Canadian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-35,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24652,840,211,7,6.0,71,10,1:07.833,229.162,stroll,18,STR,Lance,Stroll,Canadian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-36,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24644,817,4,\N,0.0,17,19,1:10.610,220.150,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-37,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24653,817,4,8,4.0,71,9,1:07.832,229.166,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-38,1031,2020,1,70,Austrian Grand Prix,2020-07-05,24645,830,9,\N,0.0,11,15,1:09.351,224.146,max_verstappen,33,VER,Max,Verstappen,Dutch,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-39,1032,2020,2,70,Styrian Grand Prix,2020-07-12,24648,830,9,3,15.0,71,2,1:06.145,235.010,max_verstappen,33,VER,Max,Verstappen,Dutch,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
-40,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24668,822,131,3,15.0,70,2,1:17.665,203.072,bottas,77,BOT,Valtteri,Bottas,Finnish,Hungaroring,Budapest,Hungary,47.5789,19.2486
-41,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24676,844,6,11,0.0,69,16,1:20.821,195.142,leclerc,16,LEC,Charles,Leclerc,Monegasque,Hungaroring,Budapest,Hungary,47.5789,19.2486
-42,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24678,846,1,13,0.0,69,8,1:19.945,197.280,norris,4,NOR,Lando,Norris,British,Hungaroring,Budapest,Hungary,47.5789,19.2486
-43,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24666,1,131,1,26.0,70,1,1:16.627,205.823,hamilton,44,HAM,Lewis,Hamilton,British,Hungaroring,Budapest,Hungary,47.5789,19.2486
-44,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24674,832,1,9,2.0,69,15,1:20.477,195.976,sainz,55,SAI,Carlos,Sainz,Spanish,Hungaroring,Budapest,Hungary,47.5789,19.2486
-45,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24672,815,211,7,6.0,69,10,1:20.090,196.923,perez,11,PER,Sergio,PÃ©rez,Mexican,Hungaroring,Budapest,Hungary,47.5789,19.2486
-46,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24685,842,213,\N,0.0,15,20,1:23.939,187.893,gasly,10,GAS,Pierre,Gasly,French,Hungaroring,Budapest,Hungary,47.5789,19.2486
-47,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24679,839,4,14,0.0,69,13,1:20.261,196.503,ocon,31,OCO,Esteban,Ocon,French,Hungaroring,Budapest,Hungary,47.5789,19.2486
-48,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24682,841,51,17,0.0,69,11,1:20.096,196.908,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Hungaroring,Budapest,Hungary,47.5789,19.2486
-49,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24671,20,6,6,8.0,69,14,1:20.363,196.254,vettel,5,VET,Sebastian,Vettel,German,Hungaroring,Budapest,Hungary,47.5789,19.2486
-50,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24684,849,3,19,0.0,65,19,1:21.198,194.236,latifi,6,LAT,Nicholas,Latifi,Canadian,Hungaroring,Budapest,Hungary,47.5789,19.2486
-51,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24677,826,213,12,0.0,69,18,1:20.946,194.841,kvyat,26,KVY,Daniil,Kvyat,Russian,Hungaroring,Budapest,Hungary,47.5789,19.2486
-52,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24670,848,9,5,10.0,70,5,1:19.440,198.534,albon,23,ALB,Alexander,Albon,Thai,Hungaroring,Budapest,Hungary,47.5789,19.2486
-53,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24680,8,51,15,0.0,69,17,1:20.889,194.978,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Hungaroring,Budapest,Hungary,47.5789,19.2486
-54,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24683,847,3,18,0.0,69,9,1:19.984,197.184,russell,63,RUS,George,Russell,British,Hungaroring,Budapest,Hungary,47.5789,19.2486
-55,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24681,154,210,16,0.0,69,12,1:20.232,196.574,grosjean,8,GRO,Romain,Grosjean,French,Hungaroring,Budapest,Hungary,47.5789,19.2486
-56,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24675,825,210,10,1.0,69,6,1:19.457,198.492,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Hungaroring,Budapest,Hungary,47.5789,19.2486
-57,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24669,840,211,4,12.0,70,3,1:18.973,199.708,stroll,18,STR,Lance,Stroll,Canadian,Hungaroring,Budapest,Hungary,47.5789,19.2486
-58,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24673,817,4,8,4.0,69,7,1:19.532,198.305,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Hungaroring,Budapest,Hungary,47.5789,19.2486
-59,1033,2020,3,11,Hungarian Grand Prix,2020-07-19,24667,830,9,2,18.0,70,4,1:19.184,199.176,max_verstappen,33,VER,Max,Verstappen,Dutch,Hungaroring,Budapest,Hungary,47.5789,19.2486
-60,1034,2020,4,9,British Grand Prix,2020-08-02,24696,822,131,11,0.0,52,4,1:29.265,237.580,bottas,77,BOT,Valtteri,Bottas,Finnish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-61,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24708,822,131,3,15.0,52,4,1:29.765,236.256,bottas,77,BOT,Valtteri,Bottas,Finnish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-62,1034,2020,4,9,British Grand Prix,2020-08-02,24688,844,6,3,15.0,52,9,1:29.813,236.130,leclerc,16,LEC,Charles,Leclerc,Monegasque,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-63,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24709,844,6,4,12.0,52,8,1:30.552,234.203,leclerc,16,LEC,Charles,Leclerc,Monegasque,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-64,1034,2020,4,9,British Grand Prix,2020-08-02,24690,846,1,5,10.0,52,12,1:30.058,235.488,norris,4,NOR,Lando,Norris,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-65,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24714,846,1,9,2.0,52,11,1:30.698,233.826,norris,4,NOR,Lando,Norris,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-66,1034,2020,4,9,British Grand Prix,2020-08-02,24686,1,131,1,25.0,52,3,1:29.238,237.652,hamilton,44,HAM,Lewis,Hamilton,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-67,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24707,1,131,2,19.0,52,1,1:28.451,239.766,hamilton,44,HAM,Lewis,Hamilton,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-68,1034,2020,4,9,British Grand Prix,2020-08-02,24698,832,1,13,0.0,52,10,1:29.948,235.776,sainz,55,SAI,Carlos,Sainz,Spanish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-69,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24718,832,1,13,0.0,52,9,1:30.556,234.193,sainz,55,SAI,Carlos,Sainz,Spanish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-70,1034,2020,4,9,British Grand Prix,2020-08-02,24692,842,213,7,6.0,52,7,1:29.603,236.684,gasly,10,GAS,Pierre,Gasly,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-71,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24716,842,213,11,0.0,52,7,1:30.092,235.399,gasly,10,GAS,Pierre,Gasly,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-72,1034,2020,4,9,British Grand Prix,2020-08-02,24691,839,4,6,8.0,52,6,1:29.491,236.980,ocon,31,OCO,Esteban,Ocon,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-73,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24713,839,4,8,4.0,52,10,1:30.575,234.144,ocon,31,OCO,Esteban,Ocon,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-74,1034,2020,4,9,British Grand Prix,2020-08-02,24699,841,51,14,0.0,52,17,1:30.977,233.109,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-75,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24722,841,51,17,0.0,51,19,1:31.826,230.954,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-76,1034,2020,4,9,British Grand Prix,2020-08-02,24695,20,6,10,1.0,52,15,1:30.537,234.242,vettel,5,VET,Sebastian,Vettel,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-77,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24717,20,6,12,0.0,52,13,1:30.785,233.602,vettel,5,VET,Sebastian,Vettel,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-78,1034,2020,4,9,British Grand Prix,2020-08-02,24700,849,3,15,0.0,52,14,1:30.501,234.335,latifi,6,LAT,Nicholas,Latifi,Canadian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-79,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24724,849,3,19,0.0,51,5,1:29.950,235.770,latifi,6,LAT,Nicholas,Latifi,Canadian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-80,1034,2020,4,9,British Grand Prix,2020-08-02,24703,826,213,\N,0.0,11,18,1:32.443,229.412,kvyat,26,KVY,Daniil,Kvyat,Russian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-81,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24715,826,213,10,1.0,52,12,1:30.738,233.723,kvyat,26,KVY,Daniil,Kvyat,Russian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-82,1034,2020,4,9,British Grand Prix,2020-08-02,24693,848,9,8,4.0,52,2,1:28.689,239.123,albon,23,ALB,Alexander,Albon,Thai,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-83,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24710,848,9,5,10.0,52,3,1:29.477,237.017,albon,23,ALB,Alexander,Albon,Thai,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-84,1034,2020,4,9,British Grand Prix,2020-08-02,24702,8,51,17,0.0,51,11,1:29.973,235.710,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-85,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24720,8,51,15,0.0,51,18,1:31.756,231.130,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-86,1034,2020,4,9,British Grand Prix,2020-08-02,24697,847,3,12,0.0,52,16,1:30.862,233.404,russell,63,RUS,George,Russell,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-87,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24723,847,3,18,0.0,51,17,1:31.408,232.010,russell,63,RUS,George,Russell,British,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-88,1034,2020,4,9,British Grand Prix,2020-08-02,24701,154,210,16,0.0,52,8,1:29.782,236.212,grosjean,8,GRO,Romain,Grosjean,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-89,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24721,154,210,16,0.0,51,14,1:30.793,233.581,grosjean,8,GRO,Romain,Grosjean,French,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-90,1034,2020,4,9,British Grand Prix,2020-08-02,24704,825,210,\N,0.0,1,0,\N,\N,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-91,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24725,825,210,\N,0.0,43,20,1:31.830,230.944,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-92,1034,2020,4,9,British Grand Prix,2020-08-02,24694,840,211,9,2.0,52,13,1:30.475,234.402,stroll,18,STR,Lance,Stroll,Canadian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-93,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24711,840,211,6,8.0,52,15,1:30.877,233.365,stroll,18,STR,Lance,Stroll,Canadian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-94,1034,2020,4,9,British Grand Prix,2020-08-02,24689,817,4,4,12.0,52,5,1:29.482,237.004,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-95,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24719,817,4,14,0.0,51,16,1:31.168,232.621,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-96,1034,2020,4,9,British Grand Prix,2020-08-02,24687,830,9,2,19.0,52,1,1:27.097,243.494,max_verstappen,33,VER,Max,Verstappen,Dutch,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-97,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24706,830,9,1,25.0,52,2,1:29.465,237.049,max_verstappen,33,VER,Max,Verstappen,Dutch,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-98,1034,2020,4,9,British Grand Prix,2020-08-02,24705,807,211,\N,0.0,0,0,\N,\N,hulkenberg,27,HUL,Nico,HÃ¼lkenberg,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-99,1035,2020,5,9,70th Anniversary Grand Prix,2020-08-09,24712,807,211,7,6.0,52,6,1:30.087,235.412,hulkenberg,27,HUL,Nico,HÃ¼lkenberg,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
-100,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24728,822,131,3,16.0,66,1,1:18.183,214.343,bottas,77,BOT,Valtteri,Bottas,Finnish,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-101,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24745,844,6,\N,0.0,38,20,1:23.968,199.576,leclerc,16,LEC,Charles,Leclerc,Monegasque,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-102,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24735,846,1,10,1.0,65,13,1:22.392,203.393,norris,4,NOR,Lando,Norris,British,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-103,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24726,1,131,1,25.0,66,2,1:19.822,209.942,hamilton,44,HAM,Lewis,Hamilton,British,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-104,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24731,832,1,6,8.0,65,5,1:21.771,204.938,sainz,55,SAI,Carlos,Sainz,Spanish,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-105,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24730,815,211,5,10.0,65,16,1:22.515,203.090,perez,11,PER,Sergio,PÃ©rez,Mexican,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-106,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24734,842,213,9,2.0,65,17,1:22.543,203.021,gasly,10,GAS,Pierre,Gasly,French,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-107,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24738,839,4,13,0.0,65,10,1:22.174,203.933,ocon,31,OCO,Esteban,Ocon,French,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-108,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24741,841,51,16,0.0,65,6,1:21.801,204.863,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-109,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24732,20,6,7,6.0,65,18,1:22.707,202.618,vettel,5,VET,Sebastian,Vettel,German,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-110,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24743,849,3,18,0.0,64,9,1:22.030,204.291,latifi,6,LAT,Nicholas,Latifi,Canadian,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-111,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24737,826,213,12,0.0,65,12,1:22.336,203.531,kvyat,26,KVY,Daniil,Kvyat,Russian,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-112,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24733,848,9,8,4.0,65,11,1:22.194,203.883,albon,23,ALB,Alexander,Albon,Thai,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-113,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24739,8,51,14,0.0,65,7,1:21.888,204.645,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-114,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24742,847,3,17,0.0,65,15,1:22.503,203.119,russell,63,RUS,George,Russell,British,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-115,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24744,154,210,19,0.0,64,3,1:20.409,208.409,grosjean,8,GRO,Romain,Grosjean,French,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-116,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24740,825,210,15,0.0,65,19,1:23.474,200.757,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-117,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24729,840,211,4,12.0,65,8,1:22.024,204.306,stroll,18,STR,Lance,Stroll,Canadian,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-118,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24736,817,4,11,0.0,65,14,1:22.464,203.215,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-119,1036,2020,6,4,Spanish Grand Prix,2020-08-16,24727,830,9,2,18.0,66,4,1:21.477,205.677,max_verstappen,33,VER,Max,Verstappen,Dutch,Circuit de Barcelona-Catalunya,MontmelÃ³,Spain,41.57,2.26111
-120,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24747,822,131,2,18.0,44,5,1:47.983,233.503,bottas,77,BOT,Valtteri,Bottas,Finnish,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-121,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24759,844,6,14,0.0,44,4,1:47.840,233.813,leclerc,16,LEC,Charles,Leclerc,Monegasque,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-122,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24752,846,1,7,6.0,44,11,1:48.552,232.279,norris,4,NOR,Lando,Norris,British,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-123,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24746,1,131,1,25.0,44,2,1:47.758,233.990,hamilton,44,HAM,Lewis,Hamilton,British,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-124,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24765,832,1,\N,0.0,0,0,\N,\N,sainz,55,SAI,Carlos,Sainz,Spanish,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-125,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24755,815,211,10,1.0,44,9,1:48.389,232.628,perez,11,PER,Sergio,PÃ©rez,Mexican,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-126,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24753,842,213,8,4.0,44,3,1:47.839,233.815,gasly,10,GAS,Pierre,Gasly,French,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-127,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24750,839,4,5,10.0,44,10,1:48.540,232.305,ocon,31,OCO,Esteban,Ocon,French,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-128,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24763,841,51,\N,0.0,9,19,1:51.793,225.545,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-129,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24758,20,6,13,0.0,44,16,1:49.958,229.309,vettel,5,VET,Sebastian,Vettel,German,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-130,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24761,849,3,16,0.0,44,6,1:48.048,233.362,latifi,6,LAT,Nicholas,Latifi,Canadian,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-131,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24756,826,213,11,0.0,44,15,1:49.832,229.572,kvyat,26,KVY,Daniil,Kvyat,Russian,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-132,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24751,848,9,6,8.0,44,12,1:48.736,231.886,albon,23,ALB,Alexander,Albon,Thai,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-133,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24757,8,51,12,0.0,44,14,1:49.822,229.593,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-134,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24764,847,3,\N,0.0,9,18,1:51.754,225.624,russell,63,RUS,George,Russell,British,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-135,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24760,154,210,15,0.0,44,17,1:50.018,229.184,grosjean,8,GRO,Romain,Grosjean,French,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-136,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24762,825,210,17,0.0,44,7,1:48.083,233.287,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-137,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24754,840,211,9,2.0,44,13,1:49.136,231.036,stroll,18,STR,Lance,Stroll,Canadian,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-138,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24749,817,4,4,13.0,44,1,1:47.483,234.589,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-139,1037,2020,7,13,Belgian Grand Prix,2020-08-30,24748,830,9,3,15.0,44,8,1:48.305,232.809,max_verstappen,33,VER,Max,Verstappen,Dutch,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
-140,1038,2020,8,14,Italian Grand Prix,2020-09-06,24770,822,131,5,10.0,53,5,1:23.961,248.386,bottas,77,BOT,Valtteri,Bottas,Finnish,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-141,1038,2020,8,14,Italian Grand Prix,2020-09-06,24783,844,6,\N,0.0,23,19,1:26.026,242.424,leclerc,16,LEC,Charles,Leclerc,Monegasque,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-142,1038,2020,8,14,Italian Grand Prix,2020-09-06,24769,846,1,4,12.0,53,7,1:24.232,247.587,norris,4,NOR,Lando,Norris,British,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-143,1038,2020,8,14,Italian Grand Prix,2020-09-06,24772,1,131,7,7.0,53,1,1:22.746,252.033,hamilton,44,HAM,Lewis,Hamilton,British,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-144,1038,2020,8,14,Italian Grand Prix,2020-09-06,24767,832,1,2,18.0,53,2,1:23.882,248.620,sainz,55,SAI,Carlos,Sainz,Spanish,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-145,1038,2020,8,14,Italian Grand Prix,2020-09-06,24775,815,211,10,1.0,53,8,1:24.336,247.282,perez,11,PER,Sergio,PÃ©rez,Mexican,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-146,1038,2020,8,14,Italian Grand Prix,2020-09-06,24766,842,213,1,25.0,53,6,1:24.037,248.162,gasly,10,GAS,Pierre,Gasly,French,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-147,1038,2020,8,14,Italian Grand Prix,2020-09-06,24773,839,4,8,4.0,53,11,1:24.490,246.831,ocon,31,OCO,Esteban,Ocon,French,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-148,1038,2020,8,14,Italian Grand Prix,2020-09-06,24781,841,51,16,0.0,53,14,1:24.856,245.766,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-149,1038,2020,8,14,Italian Grand Prix,2020-09-06,24785,20,6,\N,0.0,6,20,1:27.107,239.415,vettel,5,VET,Sebastian,Vettel,German,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-150,1038,2020,8,14,Italian Grand Prix,2020-09-06,24776,849,3,11,0.0,53,16,1:24.999,245.353,latifi,6,LAT,Nicholas,Latifi,Canadian,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-151,1038,2020,8,14,Italian Grand Prix,2020-09-06,24774,826,213,9,2.0,53,10,1:24.479,246.863,kvyat,26,KVY,Daniil,Kvyat,Russian,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-152,1038,2020,8,14,Italian Grand Prix,2020-09-06,24780,848,9,15,0.0,53,15,1:24.926,245.564,albon,23,ALB,Alexander,Albon,Thai,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-153,1038,2020,8,14,Italian Grand Prix,2020-09-06,24778,8,51,13,0.0,53,13,1:24.835,245.827,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-154,1038,2020,8,14,Italian Grand Prix,2020-09-06,24779,847,3,14,0.0,53,9,1:24.421,247.033,russell,63,RUS,George,Russell,British,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-155,1038,2020,8,14,Italian Grand Prix,2020-09-06,24777,154,210,12,0.0,53,12,1:24.785,245.972,grosjean,8,GRO,Romain,Grosjean,French,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-156,1038,2020,8,14,Italian Grand Prix,2020-09-06,24784,825,210,\N,0.0,17,18,1:25.787,243.099,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-157,1038,2020,8,14,Italian Grand Prix,2020-09-06,24768,840,211,3,15.0,53,3,1:23.897,248.576,stroll,18,STR,Lance,Stroll,Canadian,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-158,1038,2020,8,14,Italian Grand Prix,2020-09-06,24771,817,4,6,8.0,53,4,1:23.898,248.573,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-159,1038,2020,8,14,Italian Grand Prix,2020-09-06,24782,830,9,\N,0.0,30,17,1:25.539,243.804,max_verstappen,33,VER,Max,Verstappen,Dutch,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
-160,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24787,822,131,2,18.0,59,2,1:19.432,237.712,bottas,77,BOT,Valtteri,Bottas,Finnish,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-161,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24793,844,6,8,4.0,59,9,1:21.229,232.453,leclerc,16,LEC,Charles,Leclerc,Monegasque,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-162,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24791,846,1,6,8.0,59,7,1:21.198,232.542,norris,4,NOR,Lando,Norris,British,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-163,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24786,1,131,1,26.0,59,1,1:18.833,239.518,hamilton,44,HAM,Lewis,Hamilton,British,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-164,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24803,832,1,\N,0.0,5,18,2:14.103,140.802,sainz,55,SAI,Carlos,Sainz,Spanish,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-165,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24790,815,211,5,10.0,59,5,1:20.632,234.175,perez,11,PER,Sergio,PÃ©rez,Mexican,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-166,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24805,842,213,\N,0.0,0,0,\N,\N,gasly,10,GAS,Pierre,Gasly,French,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-167,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24799,839,4,\N,0.0,7,15,2:11.793,143.270,ocon,31,OCO,Esteban,Ocon,French,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-168,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24802,841,51,\N,0.0,5,16,2:13.809,141.111,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-169,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24795,20,6,10,1.0,59,8,1:21.202,232.531,vettel,5,VET,Sebastian,Vettel,German,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-170,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24800,849,3,\N,0.0,6,14,2:11.365,143.736,latifi,6,LAT,Nicholas,Latifi,Canadian,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-171,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24792,826,213,7,6.0,59,10,1:21.458,231.800,kvyat,26,KVY,Daniil,Kvyat,Russian,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-172,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24788,848,9,3,15.0,59,3,1:20.039,235.909,albon,23,ALB,Alexander,Albon,Thai,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-173,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24794,8,51,9,2.0,59,6,1:21.164,232.640,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-174,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24796,847,3,11,0.0,59,11,1:21.645,231.269,russell,63,RUS,George,Russell,British,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-175,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24797,154,210,12,0.0,59,13,1:22.263,229.532,grosjean,8,GRO,Romain,Grosjean,French,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-176,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24801,825,210,\N,0.0,5,17,2:13.812,141.108,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-177,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24798,840,211,\N,0.0,42,12,1:22.068,230.077,stroll,18,STR,Lance,Stroll,Canadian,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-178,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24789,817,4,4,12.0,59,4,1:20.426,234.774,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-179,1039,2020,9,76,Tuscan Grand Prix,2020-09-13,24804,830,9,\N,0.0,0,0,\N,\N,max_verstappen,33,VER,Max,Verstappen,Dutch,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719
-180,1040,2020,10,71,Russian Grand Prix,2020-09-27,24806,822,131,1,26.0,53,1,1:37.030,216.972,bottas,77,BOT,Valtteri,Bottas,Finnish,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-181,1040,2020,10,71,Russian Grand Prix,2020-09-27,24811,844,6,6,8.0,53,11,1:39.053,212.540,leclerc,16,LEC,Charles,Leclerc,Monegasque,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-182,1040,2020,10,71,Russian Grand Prix,2020-09-27,24820,846,1,15,0.0,52,5,1:37.377,216.198,norris,4,NOR,Lando,Norris,British,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-183,1040,2020,10,71,Russian Grand Prix,2020-09-27,24808,1,131,3,15.0,53,7,1:38.075,214.660,hamilton,44,HAM,Lewis,Hamilton,British,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-184,1040,2020,10,71,Russian Grand Prix,2020-09-27,24824,832,1,\N,0.0,0,0,\N,\N,sainz,55,SAI,Carlos,Sainz,Spanish,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-185,1040,2020,10,71,Russian Grand Prix,2020-09-27,24809,815,211,4,12.0,53,8,1:38.141,214.515,perez,11,PER,Sergio,PÃ©rez,Mexican,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-186,1040,2020,10,71,Russian Grand Prix,2020-09-27,24814,842,213,9,2.0,53,2,1:37.231,216.523,gasly,10,GAS,Pierre,Gasly,French,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-187,1040,2020,10,71,Russian Grand Prix,2020-09-27,24812,839,4,7,6.0,53,13,1:39.216,212.191,ocon,31,OCO,Esteban,Ocon,French,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-188,1040,2020,10,71,Russian Grand Prix,2020-09-27,24816,841,51,11,0.0,52,16,1:39.766,211.021,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-189,1040,2020,10,71,Russian Grand Prix,2020-09-27,24818,20,6,13,0.0,52,14,1:39.588,211.398,vettel,5,VET,Sebastian,Vettel,German,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-190,1040,2020,10,71,Russian Grand Prix,2020-09-27,24821,849,3,16,0.0,52,18,1:41.044,208.352,latifi,6,LAT,Nicholas,Latifi,Canadian,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-191,1040,2020,10,71,Russian Grand Prix,2020-09-27,24813,826,213,8,4.0,53,12,1:39.133,212.369,kvyat,26,KVY,Daniil,Kvyat,Russian,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-192,1040,2020,10,71,Russian Grand Prix,2020-09-27,24815,848,9,10,1.0,53,9,1:38.377,214.001,albon,23,ALB,Alexander,Albon,Thai,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-193,1040,2020,10,71,Russian Grand Prix,2020-09-27,24819,8,51,14,0.0,52,10,1:38.858,212.960,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-194,1040,2020,10,71,Russian Grand Prix,2020-09-27,24823,847,3,18,0.0,52,4,1:37.352,216.254,russell,63,RUS,George,Russell,British,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-195,1040,2020,10,71,Russian Grand Prix,2020-09-27,24822,154,210,17,0.0,52,15,1:39.614,211.343,grosjean,8,GRO,Romain,Grosjean,French,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-196,1040,2020,10,71,Russian Grand Prix,2020-09-27,24817,825,210,12,0.0,52,17,1:40.380,209.731,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-197,1040,2020,10,71,Russian Grand Prix,2020-09-27,24825,840,211,\N,0.0,0,0,\N,\N,stroll,18,STR,Lance,Stroll,Canadian,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-198,1040,2020,10,71,Russian Grand Prix,2020-09-27,24810,817,4,5,10.0,53,6,1:37.886,215.074,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-199,1040,2020,10,71,Russian Grand Prix,2020-09-27,24807,830,9,2,18.0,53,3,1:37.332,216.298,max_verstappen,33,VER,Max,Verstappen,Dutch,Sochi Autodrom,Sochi,Russia,43.4057,39.9578
-200,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24844,822,131,\N,0.0,18,15,1:31.884,201.697,bottas,77,BOT,Valtteri,Bottas,Finnish,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-201,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24832,844,6,7,6.0,60,10,1:30.712,204.303,leclerc,16,LEC,Charles,Leclerc,Monegasque,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-202,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24841,846,1,\N,0.0,42,17,1:32.328,200.727,norris,4,NOR,Lando,Norris,British,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-203,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24826,1,131,1,25.0,60,2,1:28.145,210.253,hamilton,44,HAM,Lewis,Hamilton,British,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-204,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24830,832,1,5,10.0,60,6,1:30.129,205.625,sainz,55,SAI,Carlos,Sainz,Spanish,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-205,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24829,815,211,4,12.0,60,4,1:29.700,206.608,perez,11,PER,Sergio,PÃ©rez,Mexican,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-206,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24831,842,213,6,8.0,60,5,1:30.110,205.668,gasly,10,GAS,Pierre,Gasly,French,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-207,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24843,839,4,\N,0.0,22,19,1:33.189,198.873,ocon,31,OCO,Esteban,Ocon,French,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-208,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24835,841,51,10,1.0,60,12,1:30.909,203.861,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-209,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24836,20,6,11,0.0,60,7,1:30.408,204.990,vettel,5,VET,Sebastian,Vettel,German,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-210,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24839,849,3,14,0.0,60,13,1:31.377,202.816,latifi,6,LAT,Nicholas,Latifi,Canadian,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-211,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24840,826,213,15,0.0,60,16,1:32.214,200.975,kvyat,26,KVY,Daniil,Kvyat,Russian,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-212,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24842,848,9,\N,0.0,23,18,1:32.330,200.723,albon,23,ALB,Alexander,Albon,Thai,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-213,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24837,8,51,12,0.0,60,9,1:30.512,204.755,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-214,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24845,847,3,\N,0.0,12,20,1:34.526,196.060,russell,63,RUS,George,Russell,British,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-215,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24834,154,210,9,2.0,60,14,1:31.562,202.407,grosjean,8,GRO,Romain,Grosjean,French,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-216,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24838,825,210,13,0.0,60,8,1:30.456,204.881,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-217,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24828,817,4,3,15.0,60,3,1:29.584,206.876,ricciardo,3,RIC,Daniel,Ricciardo,Australian,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-218,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24827,830,9,2,19.0,60,1,1:28.139,210.267,max_verstappen,33,VER,Max,Verstappen,Dutch,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-219,1041,2020,11,20,Eifel Grand Prix,2020-10-11,24833,807,211,8,4.0,60,11,1:30.733,204.256,hulkenberg,27,HUL,Nico,HÃ¼lkenberg,German,NÃ¼rburgring,NÃ¼rburg,Germany,50.3356,6.9475
-220,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24847,822,131,2,18.0,66,2,1:19.345,211.113,bottas,77,BOT,Valtteri,Bottas,Finnish,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-221,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24849,844,6,4,12.0,66,7,1:20.408,208.322,leclerc,16,LEC,Charles,Leclerc,Monegasque,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-222,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24858,846,1,13,0.0,65,3,1:19.360,211.073,norris,4,NOR,Lando,Norris,British,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-223,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24846,1,131,1,26.0,66,1,1:18.750,212.708,hamilton,44,HAM,Lewis,Hamilton,British,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-224,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24851,832,1,6,8.0,65,6,1:20.268,208.685,sainz,55,SAI,Carlos,Sainz,Spanish,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-225,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24852,815,211,7,6.0,65,11,1:20.802,207.306,perez,11,PER,Sergio,PÃ©rez,Mexican,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-226,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24850,842,213,5,10.0,65,9,1:20.551,207.952,gasly,10,GAS,Pierre,Gasly,French,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-227,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24853,839,4,8,4.0,65,12,1:20.859,207.160,ocon,31,OCO,Esteban,Ocon,French,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-228,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24860,841,51,15,0.0,65,20,1:21.893,204.544,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-229,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24855,20,6,10,1.0,65,10,1:20.731,207.489,vettel,5,VET,Sebastian,Vettel,German,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-230,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24863,849,3,18,0.0,64,19,1:21.859,204.629,latifi,6,LAT,Nicholas,Latifi,Canadian,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-231,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24864,826,213,19,0.0,64,8,1:20.449,208.216,kvyat,26,KVY,Daniil,Kvyat,Russian,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-232,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24857,848,9,12,0.0,65,5,1:19.890,209.673,albon,23,ALB,Alexander,Albon,Thai,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-233,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24856,8,51,11,0.0,65,15,1:21.058,206.652,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-234,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24859,847,3,14,0.0,65,13,1:20.882,207.101,russell,63,RUS,George,Russell,British,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-235,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24862,154,210,17,0.0,65,17,1:21.664,205.118,grosjean,8,GRO,Romain,Grosjean,French,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-236,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24861,825,210,16,0.0,65,16,1:21.460,205.632,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-237,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24865,840,211,\N,0.0,51,18,1:21.694,205.043,stroll,18,STR,Lance,Stroll,Canadian,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-238,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24854,817,4,9,2.0,65,14,1:20.906,207.040,ricciardo,3,RIC,Daniel,Ricciardo,Australian,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-239,1042,2020,12,75,Portuguese Grand Prix,2020-10-25,24848,830,9,3,15.0,66,4,1:19.854,209.767,max_verstappen,33,VER,Max,Verstappen,Dutch,AutÃ³dromo Internacional do Algarve,PortimÃ£o,Portugal,37.227,-8.6267
-240,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24867,822,131,2,18.0,63,2,1:15.902,232.831,bottas,77,BOT,Valtteri,Bottas,Finnish,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-241,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24870,844,6,5,10.0,63,12,1:18.173,226.067,leclerc,16,LEC,Charles,Leclerc,Monegasque,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-242,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24873,846,1,8,4.0,63,8,1:18.069,226.368,norris,4,NOR,Lando,Norris,British,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-243,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24866,1,131,1,26.0,63,1,1:15.484,234.121,hamilton,44,HAM,Lewis,Hamilton,British,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-244,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24872,832,1,7,6.0,63,11,1:18.118,226.226,sainz,55,SAI,Carlos,Sainz,Spanish,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-245,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24871,815,211,6,8.0,63,9,1:18.084,226.325,perez,11,PER,Sergio,PÃ©rez,Mexican,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-246,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24885,842,213,\N,0.0,8,20,1:20.403,219.797,gasly,10,GAS,Pierre,Gasly,French,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-247,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24884,839,4,\N,0.0,27,19,1:19.606,221.998,ocon,31,OCO,Esteban,Ocon,French,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-248,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24875,841,51,10,1.0,63,15,1:18.794,224.286,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-249,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24877,20,6,12,0.0,63,7,1:17.767,227.248,vettel,5,VET,Sebastian,Vettel,German,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-250,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24876,849,3,11,0.0,63,14,1:18.719,224.499,latifi,6,LAT,Nicholas,Latifi,Canadian,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-251,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24869,826,213,4,12.0,63,6,1:17.666,227.543,kvyat,26,KVY,Daniil,Kvyat,Russian,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-252,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24880,848,9,15,0.0,63,3,1:16.177,231.991,albon,23,ALB,Alexander,Albon,Thai,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-253,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24874,8,51,9,2.0,63,10,1:18.088,226.313,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-254,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24881,847,3,\N,0.0,51,16,1:18.811,224.237,russell,63,RUS,George,Russell,British,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-255,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24879,154,210,14,0.0,63,17,1:18.822,224.206,grosjean,8,GRO,Romain,Grosjean,French,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-256,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24883,825,210,\N,0.0,47,18,1:19.273,222.930,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-257,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24878,840,211,13,0.0,63,13,1:18.360,225.528,stroll,18,STR,Lance,Stroll,Canadian,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-258,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24868,817,4,3,15.0,63,4,1:17.552,227.878,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-259,1043,2020,13,21,Emilia Romagna Grand Prix,2020-11-01,24882,830,9,\N,0.0,50,5,1:17.637,227.628,max_verstappen,33,VER,Max,Verstappen,Dutch,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
-260,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24899,822,131,14,0.0,57,2,1:38.193,195.704,bottas,77,BOT,Valtteri,Bottas,Finnish,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-261,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24889,844,6,4,12.0,58,11,1:39.961,192.242,leclerc,16,LEC,Charles,Leclerc,Monegasque,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-262,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24893,846,1,8,5.0,58,1,1:36.806,198.508,norris,4,NOR,Lando,Norris,British,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-263,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24886,1,131,1,25.0,58,6,1:39.413,193.302,hamilton,44,HAM,Lewis,Hamilton,British,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-264,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24890,832,1,5,10.0,58,4,1:38.754,194.592,sainz,55,SAI,Carlos,Sainz,Spanish,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-265,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24887,815,211,2,18.0,58,12,1:40.392,191.417,perez,11,PER,Sergio,PÃ©rez,Mexican,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-266,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24898,842,213,13,0.0,57,7,1:39.586,192.966,gasly,10,GAS,Pierre,Gasly,French,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-267,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24896,839,4,11,0.0,57,16,1:41.006,190.254,ocon,31,OCO,Esteban,Ocon,French,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-268,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24905,841,51,\N,0.0,11,20,1:51.122,172.934,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-269,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24888,20,6,3,15.0,58,8,1:39.662,192.819,vettel,5,VET,Sebastian,Vettel,German,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-270,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24904,849,3,\N,0.0,39,19,1:43.495,185.678,latifi,6,LAT,Nicholas,Latifi,Canadian,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-271,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24897,826,213,12,0.0,57,17,1:41.019,190.229,kvyat,26,KVY,Daniil,Kvyat,Russian,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-272,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24892,848,9,7,6.0,58,5,1:39.099,193.915,albon,23,ALB,Alexander,Albon,Thai,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-273,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24900,8,51,15,0.0,57,9,1:39.743,192.663,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-274,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24901,847,3,16,0.0,57,14,1:40.814,190.616,russell,63,RUS,George,Russell,British,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-275,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24903,154,210,\N,0.0,49,18,1:43.281,186.063,grosjean,8,GRO,Romain,Grosjean,French,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-276,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24902,825,210,17,0.0,55,15,1:40.948,190.363,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-277,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24894,840,211,9,2.0,58,10,1:39.921,192.319,stroll,18,STR,Lance,Stroll,Canadian,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-278,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24895,817,4,10,1.0,58,13,1:40.677,190.875,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-279,1044,2020,14,5,Turkish Grand Prix,2020-11-15,24891,830,9,6,8.0,58,3,1:38.431,195.231,max_verstappen,33,VER,Max,Verstappen,Dutch,Istanbul Park,Istanbul,Turkey,40.9517,29.405
-280,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24913,822,131,8,4.0,57,4,1:33.352,208.706,bottas,77,BOT,Valtteri,Bottas,Finnish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-281,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24933,822,131,8,4.0,87,2,0:56.563,225.497,bottas,77,BOT,Valtteri,Bottas,Finnish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-282,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24915,844,6,10,1.0,56,8,1:33.625,208.098,leclerc,16,LEC,Charles,Leclerc,Monegasque,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-283,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24945,844,6,\N,0.0,0,0,\N,\N,leclerc,16,LEC,Charles,Leclerc,Monegasque,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-284,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24909,846,1,4,12.0,57,7,1:33.588,208.180,norris,4,NOR,Lando,Norris,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-285,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24935,846,1,10,1.0,87,11,0:57.270,222.713,norris,4,NOR,Lando,Norris,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-286,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24906,1,131,1,25.0,57,3,1:32.864,209.803,hamilton,44,HAM,Lewis,Hamilton,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-287,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24910,832,1,5,10.0,57,5,1:33.411,208.575,sainz,55,SAI,Carlos,Sainz,Spanish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-288,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24929,832,1,4,12.0,87,9,0:57.165,223.122,sainz,55,SAI,Carlos,Sainz,Spanish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-289,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24923,815,211,18,0.0,53,9,1:33.629,208.089,perez,11,PER,Sergio,PÃ©rez,Mexican,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-290,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24926,815,211,1,25.0,87,3,0:56.789,224.599,perez,11,PER,Sergio,PÃ©rez,Mexican,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-291,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24911,842,213,6,8.0,57,16,1:34.817,205.482,gasly,10,GAS,Pierre,Gasly,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-292,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24936,842,213,11,0.0,87,10,0:57.220,222.908,gasly,10,GAS,Pierre,Gasly,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-293,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24914,839,4,9,2.0,57,13,1:34.354,206.490,ocon,31,OCO,Esteban,Ocon,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-294,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24927,839,4,2,18.0,87,12,0:57.350,222.402,ocon,31,OCO,Esteban,Ocon,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-295,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24921,841,51,16,0.0,56,14,1:34.536,206.092,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-296,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24938,841,51,13,0.0,87,4,0:56.887,224.212,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-297,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24918,20,6,13,0.0,56,11,1:33.861,207.575,vettel,5,VET,Sebastian,Vettel,German,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-298,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24937,20,6,12,0.0,87,5,0:56.905,224.141,vettel,5,VET,Sebastian,Vettel,German,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-299,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24919,849,3,14,0.0,56,15,1:34.591,205.973,latifi,6,LAT,Nicholas,Latifi,Canadian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-300,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24943,849,3,\N,0.0,52,18,0:58.206,219.132,latifi,6,LAT,Nicholas,Latifi,Canadian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-301,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24916,826,213,11,0.0,56,12,1:34.141,206.957,kvyat,26,KVY,Daniil,Kvyat,Russian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-302,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24932,826,213,7,6.0,87,7,0:57.001,223.764,kvyat,26,KVY,Daniil,Kvyat,Russian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-303,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24908,848,9,3,15.0,57,10,1:33.684,207.967,albon,23,ALB,Alexander,Albon,Thai,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-304,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24931,848,9,6,8.0,87,8,0:57.056,223.548,albon,23,ALB,Alexander,Albon,Thai,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-305,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24920,8,51,15,0.0,56,6,1:33.573,208.213,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-306,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24939,8,51,14,0.0,87,13,0:57.375,222.305,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-307,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24917,847,3,12,0.0,56,17,1:35.042,204.995,russell,63,RUS,George,Russell,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-308,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24934,847,131,9,3.0,87,1,0:55.404,230.214,russell,63,RUS,George,Russell,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-309,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24925,154,210,\N,0.0,0,0,\N,\N,grosjean,8,GRO,Romain,Grosjean,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-310,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24922,825,210,17,0.0,56,18,1:35.241,204.567,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-311,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24940,825,210,15,0.0,87,16,0:57.516,221.760,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-312,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24924,840,211,\N,0.0,2,0,\N,\N,stroll,18,STR,Lance,Stroll,Canadian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-313,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24928,840,211,3,15.0,87,14,0:57.388,222.255,stroll,18,STR,Lance,Stroll,Canadian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-314,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24912,817,4,7,6.0,57,2,1:32.827,209.887,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-315,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24930,817,4,5,10.0,87,6,0:56.979,223.850,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-316,1045,2020,15,3,Bahrain Grand Prix,2020-11-29,24907,830,9,2,19.0,57,1,1:32.014,211.741,max_verstappen,33,VER,Max,Verstappen,Dutch,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-317,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24944,830,9,\N,0.0,0,0,\N,\N,max_verstappen,33,VER,Max,Verstappen,Dutch,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-318,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24941,851,3,16,0.0,87,15,0:57.392,222.240,aitken,89,AIT,Jack,Aitken,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-319,1046,2020,16,3,Sakhir Grand Prix,2020-12-06,24942,850,210,17,0.0,87,17,0:57.742,220.892,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
-320,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24947,822,131,2,18.0,55,3,1:41.131,197.707,bottas,77,BOT,Valtteri,Bottas,Finnish,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-321,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24958,844,6,13,0.0,54,10,1:41.908,196.200,leclerc,16,LEC,Charles,Leclerc,Monegasque,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-322,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24950,846,1,5,10.0,55,12,1:41.964,196.092,norris,4,NOR,Lando,Norris,British,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-323,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24948,1,131,3,15.0,55,5,1:41.420,197.144,hamilton,44,HAM,Lewis,Hamilton,British,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-324,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24951,832,1,6,8.0,55,11,1:41.947,196.125,sainz,55,SAI,Carlos,Sainz,Spanish,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-325,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24965,815,211,\N,0.0,8,19,1:43.263,193.625,perez,11,PER,Sergio,PÃ©rez,Mexican,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-326,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24953,842,213,8,4.0,55,15,1:42.474,195.116,gasly,10,GAS,Pierre,Gasly,French,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-327,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24954,839,4,9,2.0,55,18,1:42.894,194.320,ocon,31,OCO,Esteban,Ocon,French,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-328,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24961,841,51,16,0.0,54,7,1:41.675,196.650,giovinazzi,99,GIO,Antonio,Giovinazzi,Italian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-329,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24959,20,6,14,0.0,54,6,1:41.475,197.037,vettel,5,VET,Sebastian,Vettel,German,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-330,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24962,849,3,17,0.0,54,16,1:42.497,195.073,latifi,6,LAT,Nicholas,Latifi,Canadian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-331,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24956,826,213,11,0.0,54,17,1:42.704,194.679,kvyat,26,KVY,Daniil,Kvyat,Russian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-332,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24949,848,9,4,12.0,55,4,1:41.227,197.520,albon,23,ALB,Alexander,Albon,Thai,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-333,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24957,8,51,12,0.0,54,14,1:42.148,195.739,raikkonen,7,RAI,Kimi,RÃ¤ikkÃ¶nen,Finnish,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-334,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24960,847,3,15,0.0,54,20,1:43.328,193.504,russell,63,RUS,George,Russell,British,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-335,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24963,825,210,18,0.0,54,13,1:41.999,196.025,kevin_magnussen,20,MAG,Kevin,Magnussen,Danish,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-336,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24955,840,211,10,1.0,55,9,1:41.866,196.281,stroll,18,STR,Lance,Stroll,Canadian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-337,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24952,817,4,7,7.0,55,1,1:40.926,198.109,ricciardo,3,RIC,Daniel,Ricciardo,Australian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-338,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24946,830,9,1,25.0,55,2,1:40.958,198.046,max_verstappen,33,VER,Max,Verstappen,Dutch,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
-339,1047,2020,17,24,Abu Dhabi Grand Prix,2020-12-13,24964,850,210,19,0.0,53,8,1:41.707,196.588,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,Brazilian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
+;raceId;year;round;circuitId;name_x;date;resultId;driverId;constructorId;position;points;Pointsinday;laps;rank;fastestLapTime;fastestLapSpeed;driverRef;number_y;code;forename;surname;nationality;name_y;location;country;lat;lng
+6;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24629;1;131;4;12;12;71;3;1:07.712;229.572;hamilton;44;HAM;Lewis;Hamilton;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+7;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24646;1;131;1;25;37;71;3;1:06.719;232.989;hamilton;44;HAM;Lewis;Hamilton;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+43;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24666;1;131;1;26;63;70;1;1:16.627;205.823;hamilton;44;HAM;Lewis;Hamilton;British;Hungaroring;Budapest;Hungary;47,5789;19,2486
+66;1034;2020;4;9;British Grand Prix;2020-08-02;24686;1;131;1;25;88;52;3;1:29.238;237.652;hamilton;44;HAM;Lewis;Hamilton;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+67;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24707;1;131;2;19;107;52;1;1:28.451;239.766;hamilton;44;HAM;Lewis;Hamilton;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+103;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24726;1;131;1;25;132;66;2;1:19.822;209.942;hamilton;44;HAM;Lewis;Hamilton;British;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+123;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24746;1;131;1;25;157;44;2;1:47.758;233.990;hamilton;44;HAM;Lewis;Hamilton;British;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+143;1038;2020;8;14;Italian Grand Prix;2020-09-06;24772;1;131;7;7;164;53;1;1:22.746;252.033;hamilton;44;HAM;Lewis;Hamilton;British;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+163;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24786;1;131;1;26;190;59;1;1:18.833;239.518;hamilton;44;HAM;Lewis;Hamilton;British;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+183;1040;2020;10;71;Russian Grand Prix;2020-09-27;24808;1;131;3;15;205;53;7;1:38.075;214.660;hamilton;44;HAM;Lewis;Hamilton;British;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+203;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24826;1;131;1;25;230;60;2;1:28.145;210.253;hamilton;44;HAM;Lewis;Hamilton;British;Nürburgring;Nürburg;Germany;50,3356;6,9475
+223;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24846;1;131;1;26;256;66;1;1:18.750;212.708;hamilton;44;HAM;Lewis;Hamilton;British;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+243;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24866;1;131;1;26;282;63;1;1:15.484;234.121;hamilton;44;HAM;Lewis;Hamilton;British;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+263;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24886;1;131;1;25;307;58;6;1:39.413;193.302;hamilton;44;HAM;Lewis;Hamilton;British;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+286;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24906;1;131;1;25;332;57;3;1:32.864;209.803;hamilton;44;HAM;Lewis;Hamilton;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+323;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24948;1;131;3;15;347;55;5;1:41.420;197.144;hamilton;44;HAM;Lewis;Hamilton;British;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+26;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24639;8;51;\N;0;0;53;12;1:09.031;225.185;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+27;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24656;8;51;11;0;0;70;14;1:08.382;227.322;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+53;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24680;8;51;15;0;0;69;17;1:20.889;194.978;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Hungaroring;Budapest;Hungary;47,5789;19,2486
+84;1034;2020;4;9;British Grand Prix;2020-08-02;24702;8;51;17;0;0;51;11;1:29.973;235.710;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+85;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24720;8;51;15;0;0;51;18;1:31.756;231.130;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+113;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24739;8;51;14;0;0;65;7;1:21.888;204.645;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+133;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24757;8;51;12;0;0;44;14;1:49.822;229.593;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+153;1038;2020;8;14;Italian Grand Prix;2020-09-06;24778;8;51;13;0;0;53;13;1:24.835;245.827;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+173;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24794;8;51;9;2;2;59;6;1:21.164;232.640;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+193;1040;2020;10;71;Russian Grand Prix;2020-09-27;24819;8;51;14;0;2;52;10;1:38.858;212.960;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+213;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24837;8;51;12;0;2;60;9;1:30.512;204.755;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Nürburgring;Nürburg;Germany;50,3356;6,9475
+233;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24856;8;51;11;0;2;65;15;1:21.058;206.652;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+253;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24874;8;51;9;2;4;63;10;1:18.088;226.313;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+273;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24900;8;51;15;0;4;57;9;1:39.743;192.663;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+305;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24920;8;51;15;0;4;56;6;1:33.573;208.213;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+306;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24939;8;51;14;0;4;87;13;0:57.375;222.305;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+333;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24957;8;51;12;0;4;54;14;1:42.148;195.739;raikkonen;7;RAI;Kimi;Räikkönen;Finnish;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+18;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24635;20;6;10;1;1;71;8;1:08.623;226.524;vettel;5;VET;Sebastian;Vettel;German;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+19;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24665;20;6;\N;0;1;1;0;\N;\N;vettel;5;VET;Sebastian;Vettel;German;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+49;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24671;20;6;6;8;9;69;14;1:20.363;196.254;vettel;5;VET;Sebastian;Vettel;German;Hungaroring;Budapest;Hungary;47,5789;19,2486
+76;1034;2020;4;9;British Grand Prix;2020-08-02;24695;20;6;10;1;10;52;15;1:30.537;234.242;vettel;5;VET;Sebastian;Vettel;German;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+77;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24717;20;6;12;0;10;52;13;1:30.785;233.602;vettel;5;VET;Sebastian;Vettel;German;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+109;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24732;20;6;7;6;16;65;18;1:22.707;202.618;vettel;5;VET;Sebastian;Vettel;German;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+129;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24758;20;6;13;0;16;44;16;1:49.958;229.309;vettel;5;VET;Sebastian;Vettel;German;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+149;1038;2020;8;14;Italian Grand Prix;2020-09-06;24785;20;6;\N;0;16;6;20;1:27.107;239.415;vettel;5;VET;Sebastian;Vettel;German;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+169;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24795;20;6;10;1;17;59;8;1:21.202;232.531;vettel;5;VET;Sebastian;Vettel;German;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+189;1040;2020;10;71;Russian Grand Prix;2020-09-27;24818;20;6;13;0;17;52;14;1:39.588;211.398;vettel;5;VET;Sebastian;Vettel;German;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+209;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24836;20;6;11;0;17;60;7;1:30.408;204.990;vettel;5;VET;Sebastian;Vettel;German;Nürburgring;Nürburg;Germany;50,3356;6,9475
+229;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24855;20;6;10;1;18;65;10;1:20.731;207.489;vettel;5;VET;Sebastian;Vettel;German;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+249;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24877;20;6;12;0;18;63;7;1:17.767;227.248;vettel;5;VET;Sebastian;Vettel;German;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+269;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24888;20;6;3;15;33;58;8;1:39.662;192.819;vettel;5;VET;Sebastian;Vettel;German;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+297;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24918;20;6;13;0;33;56;11;1:33.861;207.575;vettel;5;VET;Sebastian;Vettel;German;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+298;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24937;20;6;12;0;33;87;5;0:56.905;224.141;vettel;5;VET;Sebastian;Vettel;German;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+329;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24959;20;6;14;0;33;54;6;1:41.475;197.037;vettel;5;VET;Sebastian;Vettel;German;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+30;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24641;154;210;\N;0;0;49;17;1:10.228;221.347;grosjean;8;GRO;Romain;Grosjean;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+31;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24658;154;210;13;0;0;70;12;1:08.047;228.442;grosjean;8;GRO;Romain;Grosjean;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+55;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24681;154;210;16;0;0;69;12;1:20.232;196.574;grosjean;8;GRO;Romain;Grosjean;French;Hungaroring;Budapest;Hungary;47,5789;19,2486
+88;1034;2020;4;9;British Grand Prix;2020-08-02;24701;154;210;16;0;0;52;8;1:29.782;236.212;grosjean;8;GRO;Romain;Grosjean;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+89;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24721;154;210;16;0;0;51;14;1:30.793;233.581;grosjean;8;GRO;Romain;Grosjean;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+115;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24744;154;210;19;0;0;64;3;1:20.409;208.409;grosjean;8;GRO;Romain;Grosjean;French;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+135;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24760;154;210;15;0;0;44;17;1:50.018;229.184;grosjean;8;GRO;Romain;Grosjean;French;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+155;1038;2020;8;14;Italian Grand Prix;2020-09-06;24777;154;210;12;0;0;53;12;1:24.785;245.972;grosjean;8;GRO;Romain;Grosjean;French;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+175;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24797;154;210;12;0;0;59;13;1:22.263;229.532;grosjean;8;GRO;Romain;Grosjean;French;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+195;1040;2020;10;71;Russian Grand Prix;2020-09-27;24822;154;210;17;0;0;52;15;1:39.614;211.343;grosjean;8;GRO;Romain;Grosjean;French;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+215;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24834;154;210;9;2;2;60;14;1:31.562;202.407;grosjean;8;GRO;Romain;Grosjean;French;Nürburgring;Nürburg;Germany;50,3356;6,9475
+235;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24862;154;210;17;0;2;65;17;1:21.664;205.118;grosjean;8;GRO;Romain;Grosjean;French;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+255;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24879;154;210;14;0;2;63;17;1:18.822;224.206;grosjean;8;GRO;Romain;Grosjean;French;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+275;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24903;154;210;\N;0;2;49;18;1:43.281;186.063;grosjean;8;GRO;Romain;Grosjean;French;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+309;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24925;154;210;\N;0;2;0;0;\N;\N;grosjean;8;GRO;Romain;Grosjean;French;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+98;1034;2020;4;9;British Grand Prix;2020-08-02;24705;807;211;\N;0;0;0;0;\N;\N;hulkenberg;27;HUL;Nico;Hülkenberg;German;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+99;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24712;807;211;7;6;6;52;6;1:30.087;235.412;hulkenberg;27;HUL;Nico;Hülkenberg;German;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+219;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24833;807;211;8;4;10;60;11;1:30.733;204.256;hulkenberg;27;HUL;Nico;Hülkenberg;German;Nürburgring;Nürburg;Germany;50,3356;6,9475
+10;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24631;815;211;6;8;8;71;6;1:08.305;227.579;perez;11;PER;Sergio;Pérez;Mexican;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+11;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24651;815;211;6;8;16;71;4;1:07.188;231.362;perez;11;PER;Sergio;Pérez;Mexican;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+45;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24672;815;211;7;6;22;69;10;1:20.090;196.923;perez;11;PER;Sergio;Pérez;Mexican;Hungaroring;Budapest;Hungary;47,5789;19,2486
+105;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24730;815;211;5;10;32;65;16;1:22.515;203.090;perez;11;PER;Sergio;Pérez;Mexican;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+125;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24755;815;211;10;1;33;44;9;1:48.389;232.628;perez;11;PER;Sergio;Pérez;Mexican;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+145;1038;2020;8;14;Italian Grand Prix;2020-09-06;24775;815;211;10;1;34;53;8;1:24.336;247.282;perez;11;PER;Sergio;Pérez;Mexican;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+165;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24790;815;211;5;10;44;59;5;1:20.632;234.175;perez;11;PER;Sergio;Pérez;Mexican;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+185;1040;2020;10;71;Russian Grand Prix;2020-09-27;24809;815;211;4;12;56;53;8;1:38.141;214.515;perez;11;PER;Sergio;Pérez;Mexican;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+205;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24829;815;211;4;12;68;60;4;1:29.700;206.608;perez;11;PER;Sergio;Pérez;Mexican;Nürburgring;Nürburg;Germany;50,3356;6,9475
+225;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24852;815;211;7;6;74;65;11;1:20.802;207.306;perez;11;PER;Sergio;Pérez;Mexican;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+245;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24871;815;211;6;8;82;63;9;1:18.084;226.325;perez;11;PER;Sergio;Pérez;Mexican;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+265;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24887;815;211;2;18;100;58;12;1:40.392;191.417;perez;11;PER;Sergio;Pérez;Mexican;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+289;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24923;815;211;18;0;100;53;9;1:33.629;208.089;perez;11;PER;Sergio;Pérez;Mexican;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+290;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24926;815;211;1;25;125;87;3;0:56.789;224.599;perez;11;PER;Sergio;Pérez;Mexican;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+325;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24965;815;211;\N;0;125;8;19;1:43.263;193.625;perez;11;PER;Sergio;Pérez;Mexican;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+36;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24644;817;4;\N;0;0;17;19;1:10.610;220.150;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+37;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24653;817;4;8;4;4;71;9;1:07.832;229.166;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+58;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24673;817;4;8;4;8;69;7;1:19.532;198.305;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Hungaroring;Budapest;Hungary;47,5789;19,2486
+94;1034;2020;4;9;British Grand Prix;2020-08-02;24689;817;4;4;12;20;52;5;1:29.482;237.004;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+95;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24719;817;4;14;0;20;51;16;1:31.168;232.621;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+118;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24736;817;4;11;0;20;65;14;1:22.464;203.215;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+138;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24749;817;4;4;13;33;44;1;1:47.483;234.589;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+158;1038;2020;8;14;Italian Grand Prix;2020-09-06;24771;817;4;6;8;41;53;4;1:23.898;248.573;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+178;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24789;817;4;4;12;53;59;4;1:20.426;234.774;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+198;1040;2020;10;71;Russian Grand Prix;2020-09-27;24810;817;4;5;10;63;53;6;1:37.886;215.074;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+217;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24828;817;4;3;15;78;60;3;1:29.584;206.876;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Nürburgring;Nürburg;Germany;50,3356;6,9475
+238;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24854;817;4;9;2;80;65;14;1:20.906;207.040;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+258;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24868;817;4;3;15;95;63;4;1:17.552;227.878;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+278;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24895;817;4;10;1;96;58;13;1:40.677;190.875;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+314;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24912;817;4;7;6;102;57;2;1:32.827;209.887;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+315;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24930;817;4;5;10;112;87;6;0:56.979;223.850;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+337;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24952;817;4;7;7;119;55;1;1:40.926;198.109;ricciardo;3;RIC;Daniel;Ricciardo;Australian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+0;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24626;822;131;1;25;25;71;2;1:07.657;229.758;bottas;77;BOT;Valtteri;Bottas;Finnish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+1;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24647;822;131;2;18;43;71;7;1:07.534;230.177;bottas;77;BOT;Valtteri;Bottas;Finnish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+40;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24668;822;131;3;15;58;70;2;1:17.665;203.072;bottas;77;BOT;Valtteri;Bottas;Finnish;Hungaroring;Budapest;Hungary;47,5789;19,2486
+60;1034;2020;4;9;British Grand Prix;2020-08-02;24696;822;131;11;0;58;52;4;1:29.265;237.580;bottas;77;BOT;Valtteri;Bottas;Finnish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+61;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24708;822;131;3;15;73;52;4;1:29.765;236.256;bottas;77;BOT;Valtteri;Bottas;Finnish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+100;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24728;822;131;3;16;89;66;1;1:18.183;214.343;bottas;77;BOT;Valtteri;Bottas;Finnish;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+120;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24747;822;131;2;18;107;44;5;1:47.983;233.503;bottas;77;BOT;Valtteri;Bottas;Finnish;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+140;1038;2020;8;14;Italian Grand Prix;2020-09-06;24770;822;131;5;10;117;53;5;1:23.961;248.386;bottas;77;BOT;Valtteri;Bottas;Finnish;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+160;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24787;822;131;2;18;135;59;2;1:19.432;237.712;bottas;77;BOT;Valtteri;Bottas;Finnish;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+180;1040;2020;10;71;Russian Grand Prix;2020-09-27;24806;822;131;1;26;161;53;1;1:37.030;216.972;bottas;77;BOT;Valtteri;Bottas;Finnish;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+200;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24844;822;131;\N;0;161;18;15;1:31.884;201.697;bottas;77;BOT;Valtteri;Bottas;Finnish;Nürburgring;Nürburg;Germany;50,3356;6,9475
+220;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24847;822;131;2;18;179;66;2;1:19.345;211.113;bottas;77;BOT;Valtteri;Bottas;Finnish;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+240;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24867;822;131;2;18;197;63;2;1:15.902;232.831;bottas;77;BOT;Valtteri;Bottas;Finnish;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+260;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24899;822;131;14;0;197;57;2;1:38.193;195.704;bottas;77;BOT;Valtteri;Bottas;Finnish;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+280;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24913;822;131;8;4;201;57;4;1:33.352;208.706;bottas;77;BOT;Valtteri;Bottas;Finnish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+281;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24933;822;131;8;4;205;87;2;0:56.563;225.497;bottas;77;BOT;Valtteri;Bottas;Finnish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+320;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24947;822;131;2;18;223;55;3;1:41.131;197.707;bottas;77;BOT;Valtteri;Bottas;Finnish;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+32;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24642;825;210;\N;0;0;24;20;1:10.720;219.807;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+33;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24657;825;210;12;0;0;70;11;1:08.009;228.569;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+56;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24675;825;210;10;1;1;69;6;1:19.457;198.492;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Hungaroring;Budapest;Hungary;47,5789;19,2486
+90;1034;2020;4;9;British Grand Prix;2020-08-02;24704;825;210;\N;0;1;1;0;\N;\N;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+91;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24725;825;210;\N;0;1;43;20;1:31.830;230.944;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+116;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24740;825;210;15;0;1;65;19;1:23.474;200.757;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+136;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24762;825;210;17;0;1;44;7;1:48.083;233.287;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+156;1038;2020;8;14;Italian Grand Prix;2020-09-06;24784;825;210;\N;0;1;17;18;1:25.787;243.099;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+176;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24801;825;210;\N;0;1;5;17;2:13.812;141.108;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+196;1040;2020;10;71;Russian Grand Prix;2020-09-27;24817;825;210;12;0;1;52;17;1:40.380;209.731;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+216;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24838;825;210;13;0;1;60;8;1:30.456;204.881;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Nürburgring;Nürburg;Germany;50,3356;6,9475
+236;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24861;825;210;16;0;1;65;16;1:21.460;205.632;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+256;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24883;825;210;\N;0;1;47;18;1:19.273;222.930;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+276;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24902;825;210;17;0;1;55;15;1:40.948;190.363;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+310;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24922;825;210;17;0;1;56;18;1:35.241;204.567;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+311;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24940;825;210;15;0;1;87;16;0:57.516;221.760;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+335;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24963;825;210;18;0;1;54;13;1:41.999;196.025;kevin_magnussen;20;MAG;Kevin;Magnussen;Danish;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+22;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24637;826;213;12;0;0;69;13;1:09.135;224.847;kvyat;26;KVY;Daniil;Kvyat;Russian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+23;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24655;826;213;10;1;1;70;13;1:08.378;227.336;kvyat;26;KVY;Daniil;Kvyat;Russian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+51;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24677;826;213;12;0;1;69;18;1:20.946;194.841;kvyat;26;KVY;Daniil;Kvyat;Russian;Hungaroring;Budapest;Hungary;47,5789;19,2486
+80;1034;2020;4;9;British Grand Prix;2020-08-02;24703;826;213;\N;0;1;11;18;1:32.443;229.412;kvyat;26;KVY;Daniil;Kvyat;Russian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+81;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24715;826;213;10;1;2;52;12;1:30.738;233.723;kvyat;26;KVY;Daniil;Kvyat;Russian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+111;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24737;826;213;12;0;2;65;12;1:22.336;203.531;kvyat;26;KVY;Daniil;Kvyat;Russian;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+131;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24756;826;213;11;0;2;44;15;1:49.832;229.572;kvyat;26;KVY;Daniil;Kvyat;Russian;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+151;1038;2020;8;14;Italian Grand Prix;2020-09-06;24774;826;213;9;2;4;53;10;1:24.479;246.863;kvyat;26;KVY;Daniil;Kvyat;Russian;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+171;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24792;826;213;7;6;10;59;10;1:21.458;231.800;kvyat;26;KVY;Daniil;Kvyat;Russian;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+191;1040;2020;10;71;Russian Grand Prix;2020-09-27;24813;826;213;8;4;14;53;12;1:39.133;212.369;kvyat;26;KVY;Daniil;Kvyat;Russian;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+211;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24840;826;213;15;0;14;60;16;1:32.214;200.975;kvyat;26;KVY;Daniil;Kvyat;Russian;Nürburgring;Nürburg;Germany;50,3356;6,9475
+231;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24864;826;213;19;0;14;64;8;1:20.449;208.216;kvyat;26;KVY;Daniil;Kvyat;Russian;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+251;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24869;826;213;4;12;26;63;6;1:17.666;227.543;kvyat;26;KVY;Daniil;Kvyat;Russian;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+271;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24897;826;213;12;0;26;57;17;1:41.019;190.229;kvyat;26;KVY;Daniil;Kvyat;Russian;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+301;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24916;826;213;11;0;26;56;12;1:34.141;206.957;kvyat;26;KVY;Daniil;Kvyat;Russian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+302;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24932;826;213;7;6;32;87;7;0:57.001;223.764;kvyat;26;KVY;Daniil;Kvyat;Russian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+331;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24956;826;213;11;0;32;54;17;1:42.704;194.679;kvyat;26;KVY;Daniil;Kvyat;Russian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+38;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24645;830;9;\N;0;0;11;15;1:09.351;224.146;max_verstappen;33;VER;Max;Verstappen;Dutch;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+39;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24648;830;9;3;15;15;71;2;1:06.145;235.010;max_verstappen;33;VER;Max;Verstappen;Dutch;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+59;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24667;830;9;2;18;33;70;4;1:19.184;199.176;max_verstappen;33;VER;Max;Verstappen;Dutch;Hungaroring;Budapest;Hungary;47,5789;19,2486
+96;1034;2020;4;9;British Grand Prix;2020-08-02;24687;830;9;2;19;52;52;1;1:27.097;243.494;max_verstappen;33;VER;Max;Verstappen;Dutch;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+97;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24706;830;9;1;25;77;52;2;1:29.465;237.049;max_verstappen;33;VER;Max;Verstappen;Dutch;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+119;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24727;830;9;2;18;95;66;4;1:21.477;205.677;max_verstappen;33;VER;Max;Verstappen;Dutch;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+139;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24748;830;9;3;15;110;44;8;1:48.305;232.809;max_verstappen;33;VER;Max;Verstappen;Dutch;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+159;1038;2020;8;14;Italian Grand Prix;2020-09-06;24782;830;9;\N;0;110;30;17;1:25.539;243.804;max_verstappen;33;VER;Max;Verstappen;Dutch;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+179;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24804;830;9;\N;0;110;0;0;\N;\N;max_verstappen;33;VER;Max;Verstappen;Dutch;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+199;1040;2020;10;71;Russian Grand Prix;2020-09-27;24807;830;9;2;18;128;53;3;1:37.332;216.298;max_verstappen;33;VER;Max;Verstappen;Dutch;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+218;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24827;830;9;2;19;147;60;1;1:28.139;210.267;max_verstappen;33;VER;Max;Verstappen;Dutch;Nürburgring;Nürburg;Germany;50,3356;6,9475
+239;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24848;830;9;3;15;162;66;4;1:19.854;209.767;max_verstappen;33;VER;Max;Verstappen;Dutch;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+259;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24882;830;9;\N;0;162;50;5;1:17.637;227.628;max_verstappen;33;VER;Max;Verstappen;Dutch;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+279;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24891;830;9;6;8;170;58;3;1:38.431;195.231;max_verstappen;33;VER;Max;Verstappen;Dutch;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+316;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24907;830;9;2;19;189;57;1;1:32.014;211.741;max_verstappen;33;VER;Max;Verstappen;Dutch;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+317;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24944;830;9;\N;0;189;0;0;\N;\N;max_verstappen;33;VER;Max;Verstappen;Dutch;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+338;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24946;830;9;1;25;214;55;2;1:40.958;198.046;max_verstappen;33;VER;Max;Verstappen;Dutch;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+8;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24630;832;1;5;10;10;71;5;1:07.974;228.687;sainz;55;SAI;Carlos;Sainz;Spanish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+9;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24654;832;1;9;3;13;70;1;1:05.619;236.894;sainz;55;SAI;Carlos;Sainz;Spanish;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+44;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24674;832;1;9;2;15;69;15;1:20.477;195.976;sainz;55;SAI;Carlos;Sainz;Spanish;Hungaroring;Budapest;Hungary;47,5789;19,2486
+68;1034;2020;4;9;British Grand Prix;2020-08-02;24698;832;1;13;0;15;52;10;1:29.948;235.776;sainz;55;SAI;Carlos;Sainz;Spanish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+69;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24718;832;1;13;0;15;52;9;1:30.556;234.193;sainz;55;SAI;Carlos;Sainz;Spanish;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+104;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24731;832;1;6;8;23;65;5;1:21.771;204.938;sainz;55;SAI;Carlos;Sainz;Spanish;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+124;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24765;832;1;\N;0;23;0;0;\N;\N;sainz;55;SAI;Carlos;Sainz;Spanish;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+144;1038;2020;8;14;Italian Grand Prix;2020-09-06;24767;832;1;2;18;41;53;2;1:23.882;248.620;sainz;55;SAI;Carlos;Sainz;Spanish;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+164;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24803;832;1;\N;0;41;5;18;2:14.103;140.802;sainz;55;SAI;Carlos;Sainz;Spanish;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+184;1040;2020;10;71;Russian Grand Prix;2020-09-27;24824;832;1;\N;0;41;0;0;\N;\N;sainz;55;SAI;Carlos;Sainz;Spanish;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+204;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24830;832;1;5;10;51;60;6;1:30.129;205.625;sainz;55;SAI;Carlos;Sainz;Spanish;Nürburgring;Nürburg;Germany;50,3356;6,9475
+224;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24851;832;1;6;8;59;65;6;1:20.268;208.685;sainz;55;SAI;Carlos;Sainz;Spanish;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+244;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24872;832;1;7;6;65;63;11;1:18.118;226.226;sainz;55;SAI;Carlos;Sainz;Spanish;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+264;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24890;832;1;5;10;75;58;4;1:38.754;194.592;sainz;55;SAI;Carlos;Sainz;Spanish;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+287;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24910;832;1;5;10;85;57;5;1:33.411;208.575;sainz;55;SAI;Carlos;Sainz;Spanish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+288;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24929;832;1;4;12;97;87;9;0:57.165;223.122;sainz;55;SAI;Carlos;Sainz;Spanish;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+324;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24951;832;1;6;8;105;55;11;1:41.947;196.125;sainz;55;SAI;Carlos;Sainz;Spanish;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+14;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24633;839;4;8;4;4;71;10;1:08.932;225.509;ocon;31;OCO;Esteban;Ocon;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+15;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24663;839;4;\N;0;4;25;18;1:09.321;224.243;ocon;31;OCO;Esteban;Ocon;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+47;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24679;839;4;14;0;4;69;13;1:20.261;196.503;ocon;31;OCO;Esteban;Ocon;French;Hungaroring;Budapest;Hungary;47,5789;19,2486
+72;1034;2020;4;9;British Grand Prix;2020-08-02;24691;839;4;6;8;12;52;6;1:29.491;236.980;ocon;31;OCO;Esteban;Ocon;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+73;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24713;839;4;8;4;16;52;10;1:30.575;234.144;ocon;31;OCO;Esteban;Ocon;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+107;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24738;839;4;13;0;16;65;10;1:22.174;203.933;ocon;31;OCO;Esteban;Ocon;French;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+127;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24750;839;4;5;10;26;44;10;1:48.540;232.305;ocon;31;OCO;Esteban;Ocon;French;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+147;1038;2020;8;14;Italian Grand Prix;2020-09-06;24773;839;4;8;4;30;53;11;1:24.490;246.831;ocon;31;OCO;Esteban;Ocon;French;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+167;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24799;839;4;\N;0;30;7;15;2:11.793;143.270;ocon;31;OCO;Esteban;Ocon;French;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+187;1040;2020;10;71;Russian Grand Prix;2020-09-27;24812;839;4;7;6;36;53;13;1:39.216;212.191;ocon;31;OCO;Esteban;Ocon;French;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+207;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24843;839;4;\N;0;36;22;19;1:33.189;198.873;ocon;31;OCO;Esteban;Ocon;French;Nürburgring;Nürburg;Germany;50,3356;6,9475
+227;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24853;839;4;8;4;40;65;12;1:20.859;207.160;ocon;31;OCO;Esteban;Ocon;French;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+247;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24884;839;4;\N;0;40;27;19;1:19.606;221.998;ocon;31;OCO;Esteban;Ocon;French;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+267;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24896;839;4;11;0;40;57;16;1:41.006;190.254;ocon;31;OCO;Esteban;Ocon;French;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+293;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24914;839;4;9;2;42;57;13;1:34.354;206.490;ocon;31;OCO;Esteban;Ocon;French;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+294;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24927;839;4;2;18;60;87;12;0:57.350;222.402;ocon;31;OCO;Esteban;Ocon;French;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+327;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24954;839;4;9;2;62;55;18;1:42.894;194.320;ocon;31;OCO;Esteban;Ocon;French;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+34;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24643;840;211;\N;0;0;20;18;1:10.326;221.039;stroll;18;STR;Lance;Stroll;Canadian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+35;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24652;840;211;7;6;6;71;10;1:07.833;229.162;stroll;18;STR;Lance;Stroll;Canadian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+57;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24669;840;211;4;12;18;70;3;1:18.973;199.708;stroll;18;STR;Lance;Stroll;Canadian;Hungaroring;Budapest;Hungary;47,5789;19,2486
+92;1034;2020;4;9;British Grand Prix;2020-08-02;24694;840;211;9;2;20;52;13;1:30.475;234.402;stroll;18;STR;Lance;Stroll;Canadian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+93;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24711;840;211;6;8;28;52;15;1:30.877;233.365;stroll;18;STR;Lance;Stroll;Canadian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+117;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24729;840;211;4;12;40;65;8;1:22.024;204.306;stroll;18;STR;Lance;Stroll;Canadian;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+137;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24754;840;211;9;2;42;44;13;1:49.136;231.036;stroll;18;STR;Lance;Stroll;Canadian;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+157;1038;2020;8;14;Italian Grand Prix;2020-09-06;24768;840;211;3;15;57;53;3;1:23.897;248.576;stroll;18;STR;Lance;Stroll;Canadian;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+177;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24798;840;211;\N;0;57;42;12;1:22.068;230.077;stroll;18;STR;Lance;Stroll;Canadian;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+197;1040;2020;10;71;Russian Grand Prix;2020-09-27;24825;840;211;\N;0;57;0;0;\N;\N;stroll;18;STR;Lance;Stroll;Canadian;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+237;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24865;840;211;\N;0;57;51;18;1:21.694;205.043;stroll;18;STR;Lance;Stroll;Canadian;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+257;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24878;840;211;13;0;57;63;13;1:18.360;225.528;stroll;18;STR;Lance;Stroll;Canadian;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+277;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24894;840;211;9;2;59;58;10;1:39.921;192.319;stroll;18;STR;Lance;Stroll;Canadian;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+312;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24924;840;211;\N;0;59;2;0;\N;\N;stroll;18;STR;Lance;Stroll;Canadian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+313;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24928;840;211;3;15;74;87;14;0:57.388;222.255;stroll;18;STR;Lance;Stroll;Canadian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+336;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24955;840;211;10;1;75;55;9;1:41.866;196.281;stroll;18;STR;Lance;Stroll;Canadian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+16;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24634;841;51;9;2;2;71;9;1:08.796;225.954;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+17;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24659;841;51;14;0;2;70;15;1:08.512;226.891;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+48;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24682;841;51;17;0;2;69;11;1:20.096;196.908;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Hungaroring;Budapest;Hungary;47,5789;19,2486
+74;1034;2020;4;9;British Grand Prix;2020-08-02;24699;841;51;14;0;2;52;17;1:30.977;233.109;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+75;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24722;841;51;17;0;2;51;19;1:31.826;230.954;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+108;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24741;841;51;16;0;2;65;6;1:21.801;204.863;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+128;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24763;841;51;\N;0;2;9;19;1:51.793;225.545;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+148;1038;2020;8;14;Italian Grand Prix;2020-09-06;24781;841;51;16;0;2;53;14;1:24.856;245.766;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+168;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24802;841;51;\N;0;2;5;16;2:13.809;141.111;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+188;1040;2020;10;71;Russian Grand Prix;2020-09-27;24816;841;51;11;0;2;52;16;1:39.766;211.021;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+208;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24835;841;51;10;1;3;60;12;1:30.909;203.861;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Nürburgring;Nürburg;Germany;50,3356;6,9475
+228;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24860;841;51;15;0;3;65;20;1:21.893;204.544;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+248;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24875;841;51;10;1;4;63;15;1:18.794;224.286;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+268;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24905;841;51;\N;0;4;11;20;1:51.122;172.934;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+295;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24921;841;51;16;0;4;56;14;1:34.536;206.092;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+296;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24938;841;51;13;0;4;87;4;0:56.887;224.212;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+328;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24961;841;51;16;0;4;54;7;1:41.675;196.650;giovinazzi;99;GIO;Antonio;Giovinazzi;Italian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+12;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24632;842;213;7;6;6;71;11;1:09.025;225.205;gasly;10;GAS;Pierre;Gasly;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+13;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24660;842;213;15;0;6;70;8;1:07.827;229.183;gasly;10;GAS;Pierre;Gasly;French;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+46;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24685;842;213;\N;0;6;15;20;1:23.939;187.893;gasly;10;GAS;Pierre;Gasly;French;Hungaroring;Budapest;Hungary;47,5789;19,2486
+70;1034;2020;4;9;British Grand Prix;2020-08-02;24692;842;213;7;6;12;52;7;1:29.603;236.684;gasly;10;GAS;Pierre;Gasly;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+71;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24716;842;213;11;0;12;52;7;1:30.092;235.399;gasly;10;GAS;Pierre;Gasly;French;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+106;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24734;842;213;9;2;14;65;17;1:22.543;203.021;gasly;10;GAS;Pierre;Gasly;French;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+126;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24753;842;213;8;4;18;44;3;1:47.839;233.815;gasly;10;GAS;Pierre;Gasly;French;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+146;1038;2020;8;14;Italian Grand Prix;2020-09-06;24766;842;213;1;25;43;53;6;1:24.037;248.162;gasly;10;GAS;Pierre;Gasly;French;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+166;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24805;842;213;\N;0;43;0;0;\N;\N;gasly;10;GAS;Pierre;Gasly;French;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+186;1040;2020;10;71;Russian Grand Prix;2020-09-27;24814;842;213;9;2;45;53;2;1:37.231;216.523;gasly;10;GAS;Pierre;Gasly;French;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+206;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24831;842;213;6;8;53;60;5;1:30.110;205.668;gasly;10;GAS;Pierre;Gasly;French;Nürburgring;Nürburg;Germany;50,3356;6,9475
+226;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24850;842;213;5;10;63;65;9;1:20.551;207.952;gasly;10;GAS;Pierre;Gasly;French;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+246;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24885;842;213;\N;0;63;8;20;1:20.403;219.797;gasly;10;GAS;Pierre;Gasly;French;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+266;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24898;842;213;13;0;63;57;7;1:39.586;192.966;gasly;10;GAS;Pierre;Gasly;French;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+291;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24911;842;213;6;8;71;57;16;1:34.817;205.482;gasly;10;GAS;Pierre;Gasly;French;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+292;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24936;842;213;11;0;71;87;10;0:57.220;222.908;gasly;10;GAS;Pierre;Gasly;French;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+326;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24953;842;213;8;4;75;55;15;1:42.474;195.116;gasly;10;GAS;Pierre;Gasly;French;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+2;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24627;844;6;2;18;18;71;4;1:07.901;228.933;leclerc;16;LEC;Charles;Leclerc;Monegasque;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+3;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24664;844;6;\N;0;18;4;19;1:35.379;162.979;leclerc;16;LEC;Charles;Leclerc;Monegasque;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+41;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24676;844;6;11;0;18;69;16;1:20.821;195.142;leclerc;16;LEC;Charles;Leclerc;Monegasque;Hungaroring;Budapest;Hungary;47,5789;19,2486
+62;1034;2020;4;9;British Grand Prix;2020-08-02;24688;844;6;3;15;33;52;9;1:29.813;236.130;leclerc;16;LEC;Charles;Leclerc;Monegasque;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+63;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24709;844;6;4;12;45;52;8;1:30.552;234.203;leclerc;16;LEC;Charles;Leclerc;Monegasque;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+101;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24745;844;6;\N;0;45;38;20;1:23.968;199.576;leclerc;16;LEC;Charles;Leclerc;Monegasque;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+121;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24759;844;6;14;0;45;44;4;1:47.840;233.813;leclerc;16;LEC;Charles;Leclerc;Monegasque;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+141;1038;2020;8;14;Italian Grand Prix;2020-09-06;24783;844;6;\N;0;45;23;19;1:26.026;242.424;leclerc;16;LEC;Charles;Leclerc;Monegasque;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+161;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24793;844;6;8;4;49;59;9;1:21.229;232.453;leclerc;16;LEC;Charles;Leclerc;Monegasque;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+181;1040;2020;10;71;Russian Grand Prix;2020-09-27;24811;844;6;6;8;57;53;11;1:39.053;212.540;leclerc;16;LEC;Charles;Leclerc;Monegasque;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+201;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24832;844;6;7;6;63;60;10;1:30.712;204.303;leclerc;16;LEC;Charles;Leclerc;Monegasque;Nürburgring;Nürburg;Germany;50,3356;6,9475
+221;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24849;844;6;4;12;75;66;7;1:20.408;208.322;leclerc;16;LEC;Charles;Leclerc;Monegasque;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+241;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24870;844;6;5;10;85;63;12;1:18.173;226.067;leclerc;16;LEC;Charles;Leclerc;Monegasque;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+261;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24889;844;6;4;12;97;58;11;1:39.961;192.242;leclerc;16;LEC;Charles;Leclerc;Monegasque;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+282;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24915;844;6;10;1;98;56;8;1:33.625;208.098;leclerc;16;LEC;Charles;Leclerc;Monegasque;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+283;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24945;844;6;\N;0;98;0;0;\N;\N;leclerc;16;LEC;Charles;Leclerc;Monegasque;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+321;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24958;844;6;13;0;98;54;10;1:41.908;196.200;leclerc;16;LEC;Charles;Leclerc;Monegasque;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+4;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24628;846;1;3;16;16;71;1;1:07.475;230.378;norris;4;NOR;Lando;Norris;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+5;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24650;846;1;5;10;26;71;5;1:07.193;231.345;norris;4;NOR;Lando;Norris;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+42;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24678;846;1;13;0;26;69;8;1:19.945;197.280;norris;4;NOR;Lando;Norris;British;Hungaroring;Budapest;Hungary;47,5789;19,2486
+64;1034;2020;4;9;British Grand Prix;2020-08-02;24690;846;1;5;10;36;52;12;1:30.058;235.488;norris;4;NOR;Lando;Norris;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+65;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24714;846;1;9;2;38;52;11;1:30.698;233.826;norris;4;NOR;Lando;Norris;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+102;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24735;846;1;10;1;39;65;13;1:22.392;203.393;norris;4;NOR;Lando;Norris;British;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+122;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24752;846;1;7;6;45;44;11;1:48.552;232.279;norris;4;NOR;Lando;Norris;British;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+142;1038;2020;8;14;Italian Grand Prix;2020-09-06;24769;846;1;4;12;57;53;7;1:24.232;247.587;norris;4;NOR;Lando;Norris;British;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+162;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24791;846;1;6;8;65;59;7;1:21.198;232.542;norris;4;NOR;Lando;Norris;British;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+182;1040;2020;10;71;Russian Grand Prix;2020-09-27;24820;846;1;15;0;65;52;5;1:37.377;216.198;norris;4;NOR;Lando;Norris;British;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+202;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24841;846;1;\N;0;65;42;17;1:32.328;200.727;norris;4;NOR;Lando;Norris;British;Nürburgring;Nürburg;Germany;50,3356;6,9475
+222;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24858;846;1;13;0;65;65;3;1:19.360;211.073;norris;4;NOR;Lando;Norris;British;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+242;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24873;846;1;8;4;69;63;8;1:18.069;226.368;norris;4;NOR;Lando;Norris;British;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+262;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24893;846;1;8;5;74;58;1;1:36.806;198.508;norris;4;NOR;Lando;Norris;British;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+284;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24909;846;1;4;12;86;57;7;1:33.588;208.180;norris;4;NOR;Lando;Norris;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+285;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24935;846;1;10;1;87;87;11;0:57.270;222.713;norris;4;NOR;Lando;Norris;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+322;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24950;846;1;5;10;97;55;12;1:41.964;196.092;norris;4;NOR;Lando;Norris;British;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+28;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24640;847;3;\N;0;0;49;14;1:09.317;224.256;russell;63;RUS;George;Russell;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+29;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24661;847;3;16;0;0;69;16;1:08.601;226.597;russell;63;RUS;George;Russell;British;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+54;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24683;847;3;18;0;0;69;9;1:19.984;197.184;russell;63;RUS;George;Russell;British;Hungaroring;Budapest;Hungary;47,5789;19,2486
+86;1034;2020;4;9;British Grand Prix;2020-08-02;24697;847;3;12;0;0;52;16;1:30.862;233.404;russell;63;RUS;George;Russell;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+87;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24723;847;3;18;0;0;51;17;1:31.408;232.010;russell;63;RUS;George;Russell;British;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+114;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24742;847;3;17;0;0;65;15;1:22.503;203.119;russell;63;RUS;George;Russell;British;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+134;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24764;847;3;\N;0;0;9;18;1:51.754;225.624;russell;63;RUS;George;Russell;British;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+154;1038;2020;8;14;Italian Grand Prix;2020-09-06;24779;847;3;14;0;0;53;9;1:24.421;247.033;russell;63;RUS;George;Russell;British;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+174;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24796;847;3;11;0;0;59;11;1:21.645;231.269;russell;63;RUS;George;Russell;British;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+194;1040;2020;10;71;Russian Grand Prix;2020-09-27;24823;847;3;18;0;0;52;4;1:37.352;216.254;russell;63;RUS;George;Russell;British;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+214;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24845;847;3;\N;0;0;12;20;1:34.526;196.060;russell;63;RUS;George;Russell;British;Nürburgring;Nürburg;Germany;50,3356;6,9475
+234;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24859;847;3;14;0;0;65;13;1:20.882;207.101;russell;63;RUS;George;Russell;British;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+254;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24881;847;3;\N;0;0;51;16;1:18.811;224.237;russell;63;RUS;George;Russell;British;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+274;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24901;847;3;16;0;0;57;14;1:40.814;190.616;russell;63;RUS;George;Russell;British;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+307;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24917;847;3;12;0;0;56;17;1:35.042;204.995;russell;63;RUS;George;Russell;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+308;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24934;847;131;9;3;3;87;1;0:55.404;230.214;russell;63;RUS;George;Russell;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+334;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24960;847;3;15;0;3;54;20;1:43.328;193.504;russell;63;RUS;George;Russell;British;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+24;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24638;848;9;13;0;0;67;7;1:08.432;227.156;albon;23;ALB;Alexander;Albon;Thai;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+25;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24649;848;9;4;12;12;71;6;1:07.299;230.981;albon;23;ALB;Alexander;Albon;Thai;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+52;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24670;848;9;5;10;22;70;5;1:19.440;198.534;albon;23;ALB;Alexander;Albon;Thai;Hungaroring;Budapest;Hungary;47,5789;19,2486
+82;1034;2020;4;9;British Grand Prix;2020-08-02;24693;848;9;8;4;26;52;2;1:28.689;239.123;albon;23;ALB;Alexander;Albon;Thai;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+83;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24710;848;9;5;10;36;52;3;1:29.477;237.017;albon;23;ALB;Alexander;Albon;Thai;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+112;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24733;848;9;8;4;40;65;11;1:22.194;203.883;albon;23;ALB;Alexander;Albon;Thai;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+132;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24751;848;9;6;8;48;44;12;1:48.736;231.886;albon;23;ALB;Alexander;Albon;Thai;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+152;1038;2020;8;14;Italian Grand Prix;2020-09-06;24780;848;9;15;0;48;53;15;1:24.926;245.564;albon;23;ALB;Alexander;Albon;Thai;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+172;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24788;848;9;3;15;63;59;3;1:20.039;235.909;albon;23;ALB;Alexander;Albon;Thai;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+192;1040;2020;10;71;Russian Grand Prix;2020-09-27;24815;848;9;10;1;64;53;9;1:38.377;214.001;albon;23;ALB;Alexander;Albon;Thai;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+212;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24842;848;9;\N;0;64;23;18;1:32.330;200.723;albon;23;ALB;Alexander;Albon;Thai;Nürburgring;Nürburg;Germany;50,3356;6,9475
+232;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24857;848;9;12;0;64;65;5;1:19.890;209.673;albon;23;ALB;Alexander;Albon;Thai;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+252;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24880;848;9;15;0;64;63;3;1:16.177;231.991;albon;23;ALB;Alexander;Albon;Thai;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+272;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24892;848;9;7;6;70;58;5;1:39.099;193.915;albon;23;ALB;Alexander;Albon;Thai;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+303;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24908;848;9;3;15;85;57;10;1:33.684;207.967;albon;23;ALB;Alexander;Albon;Thai;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+304;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24931;848;9;6;8;93;87;8;0:57.056;223.548;albon;23;ALB;Alexander;Albon;Thai;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+332;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24949;848;9;4;12;105;55;4;1:41.227;197.520;albon;23;ALB;Alexander;Albon;Thai;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+20;1031;2020;1;70;Austrian Grand Prix;2020-07-05;24636;849;3;11;0;0;71;16;1:09.662;223.146;latifi;6;LAT;Nicholas;Latifi;Canadian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+21;1032;2020;2;70;Styrian Grand Prix;2020-07-12;24662;849;3;17;0;0;69;17;1:08.806;225.922;latifi;6;LAT;Nicholas;Latifi;Canadian;Red Bull Ring;Spielburg;Austria;47,2197;14,7647
+50;1033;2020;3;11;Hungarian Grand Prix;2020-07-19;24684;849;3;19;0;0;65;19;1:21.198;194.236;latifi;6;LAT;Nicholas;Latifi;Canadian;Hungaroring;Budapest;Hungary;47,5789;19,2486
+78;1034;2020;4;9;British Grand Prix;2020-08-02;24700;849;3;15;0;0;52;14;1:30.501;234.335;latifi;6;LAT;Nicholas;Latifi;Canadian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+79;1035;2020;5;9;70th Anniversary Grand Prix;2020-08-09;24724;849;3;19;0;0;51;5;1:29.950;235.770;latifi;6;LAT;Nicholas;Latifi;Canadian;Silverstone Circuit;Silverstone;UK;52,0786;-1,01694
+110;1036;2020;6;4;Spanish Grand Prix;2020-08-16;24743;849;3;18;0;0;64;9;1:22.030;204.291;latifi;6;LAT;Nicholas;Latifi;Canadian;Circuit de Barcelona-Catalunya;Montmeló;Spain;41,57;2,26111
+130;1037;2020;7;13;Belgian Grand Prix;2020-08-30;24761;849;3;16;0;0;44;6;1:48.048;233.362;latifi;6;LAT;Nicholas;Latifi;Canadian;Circuit de Spa-Francorchamps;Spa;Belgium;50,4372;5,97139
+150;1038;2020;8;14;Italian Grand Prix;2020-09-06;24776;849;3;11;0;0;53;16;1:24.999;245.353;latifi;6;LAT;Nicholas;Latifi;Canadian;Autodromo Nazionale di Monza;Monza;Italy;45,6156;9,28111
+170;1039;2020;9;76;Tuscan Grand Prix;2020-09-13;24800;849;3;\N;0;0;6;14;2:11.365;143.736;latifi;6;LAT;Nicholas;Latifi;Canadian;Autodromo Internazionale del Mugello;Mugello;Italy;43,9975;11,3719
+190;1040;2020;10;71;Russian Grand Prix;2020-09-27;24821;849;3;16;0;0;52;18;1:41.044;208.352;latifi;6;LAT;Nicholas;Latifi;Canadian;Sochi Autodrom;Sochi;Russia;43,4057;39,9578
+210;1041;2020;11;20;Eifel Grand Prix;2020-10-11;24839;849;3;14;0;0;60;13;1:31.377;202.816;latifi;6;LAT;Nicholas;Latifi;Canadian;Nürburgring;Nürburg;Germany;50,3356;6,9475
+230;1042;2020;12;75;Portuguese Grand Prix;2020-10-25;24863;849;3;18;0;0;64;19;1:21.859;204.629;latifi;6;LAT;Nicholas;Latifi;Canadian;Autódromo Internacional do Algarve;Portimão;Portugal;37,227;-8,6267
+250;1043;2020;13;21;Emilia Romagna Grand Prix;2020-11-01;24876;849;3;11;0;0;63;14;1:18.719;224.499;latifi;6;LAT;Nicholas;Latifi;Canadian;Autodromo Enzo e Dino Ferrari;Imola;Italy;44,3439;11,7167
+270;1044;2020;14;5;Turkish Grand Prix;2020-11-15;24904;849;3;\N;0;0;39;19;1:43.495;185.678;latifi;6;LAT;Nicholas;Latifi;Canadian;Istanbul Park;Istanbul;Turkey;40,9517;29,405
+299;1045;2020;15;3;Bahrain Grand Prix;2020-11-29;24919;849;3;14;0;0;56;15;1:34.591;205.973;latifi;6;LAT;Nicholas;Latifi;Canadian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+300;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24943;849;3;\N;0;0;52;18;0:58.206;219.132;latifi;6;LAT;Nicholas;Latifi;Canadian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+330;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24962;849;3;17;0;0;54;16;1:42.497;195.073;latifi;6;LAT;Nicholas;Latifi;Canadian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+319;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24942;850;210;17;0;0;87;17;0:57.742;220.892;pietro_fittipaldi;51;FIT;Pietro;Fittipaldi;Brazilian;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
+339;1047;2020;17;24;Abu Dhabi Grand Prix;2020-12-13;24964;850;210;19;0;0;53;8;1:41.707;196.588;pietro_fittipaldi;51;FIT;Pietro;Fittipaldi;Brazilian;Yas Marina Circuit;Abu Dhabi;UAE;24,4672;54,6031
+318;1046;2020;16;3;Sakhir Grand Prix;2020-12-06;24941;851;3;16;0;0;87;15;0:57.392;222.240;aitken;89;AIT;Jack;Aitken;British;Bahrain International Circuit;Sakhir;Bahrain;26,0325;50,5106
