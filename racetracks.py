@@ -5,120 +5,128 @@ import dash_html_components as html
 from dash.dependencies import Input, Output, State
 import plotly.graph_objs as go
 import pandas as pd
-import app
+import plotly.express as px
 
-#path = 'datasets/f1_2020_drivers.csv'
-#df = pd.read_csv(path, error_bad_lines=False)
+from app import app
 
-#df_racetracks = df[['lat', "lng", "name_y", "location", "country"]]
+path = 'datasets/f1_2020_drivers.xlsx'
+df = pd.read_excel(path)
 
 F1_LOGO = "https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png"
 
-path = 'https://raw.githubusercontent.com/nalpalhao/DV_Practival/master/datasets/'
+colorscale = [[0, 'rgb(255,0,0)'], [1, 'rgb(255,0,0)']]
 
-df = pd.read_csv(path + 'emissions.csv')
 
-country_options = [
-    {'label': 'Country Portugal', 'value': 'Portugal'},
-    {'label': 'Country Spain', 'value': 'Spain'},
-    {'label': 'Country France', 'value': 'France'}
-]
-"""
-Equivalent way to iteratively build country_options from the dataset's countries:
+def map(df):
+    df_racetracks = df[['raceId', 'name_x', 'lat', "lng", "name_y", "location", "country"]].drop_duplicates("raceId")
+    df_racetracks["color"] = 0
 
-country_options = [
-    dict(label='Country ' + country, value=country)
-    for country in df['country_name'].unique()]
+    l = ['Valtteri Bottas, Lewis Hamilton',
+         'Valtteri Bottas, Lewis Hamilton',
+         'Lewis Hamilton',
+         'Lewis Hamilton, Max Verstappen',
+         'Lewis Hamilton, Max Verstappen',
+         'Lewis Hamilton',
+         'Lewis Hamilton',
+         'Pierre Gasly',
+         'Lewis Hamilton',
+         'Valtteri Bottas',
+         'Lewis Hamilton',
+         'Lewis Hamilton',
+         'Lewis Hamilton',
+         'Lewis Hamilton',
+         'Lewis Hamilton, Sergio Perez',
+         'Lewis Hamilton, Sergio Perez',
+         'Max Verstappen'
+         ]
 
- Try it out!
-"""
+    l1 = ['Mercedes',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes, Red Bull Racing Honda',
+         'Mercedes, Red Bull Racing Honda',
+         'Mercedes',
+         'Mercedes',
+         'AlphaTauri Honda',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes',
+         'Mercedes, Racing Point BWT Mercedes',
+         'Mercedes, Racing Point BWT Mercedes',
+         'Max Verstappen'
+         ]
 
-country_options = [
-    dict(label='Country ' + country, value=country)
-    for country in df['country_name'].unique()]
+    df_racetracks = df_racetracks.sort_values(by=['raceId'])
 
-gas_options = [
-    {'label': 'GHG Emissions', 'value': 'GHG_emissions'},
-    {'label': 'F-Gas Emissions', 'value': 'F_Gas_emissions'},
-    {'label': 'CO2 Emissions', 'value': 'CO2_emissions'}
-]
+    df_racetracks["winner"] = l
+    df_racetracks["winner_cons"] = l1
 
-dropdown_country = dcc.Dropdown(
-        id='country_drop',
-        options=country_options,
-        value=['Portugal'],
-        multi=True
-    )
 
-radio_gas = dcc.RadioItems(
-        id='gas_radio',
-        options=gas_options,
-        value='CO2_emissions',
-        labelStyle={'display': 'block'}
-    )
+    data_scattergeo = dict(type='scattergeo',
+                           lat=df_racetracks['lat'],
+                           lon=df_racetracks['lng'],
+                           #text=df_racetracks['name_y'],
+                           mode=['markers', 'lines', 'text'][0],
+                           hovertemplate=#'Grand Prix: ' + df_racetracks["name_x"] + '<br>'+
+                                         'Racetrack: ' + df_racetracks["name_y"] + '<br>'+
+                                         'Location: ' + df_racetracks["location"] + '<br>'+
+                                         'Country: ' + df_racetracks["country"] + '<br>'+
+                                         '*Winner Driver(s): ' + df_racetracks["winner"] + '<br>'
+                                         '*Winner Constructor(s): ' + df_racetracks["winner_cons"] + '<br>'
+                           '<extra></extra>',
 
-year_slider = dcc.RangeSlider(
-        id='year_slider',
-        min=1990,
-        max=2014,
-        value=[1990, 2014],
-        marks={'1990': 'Year 1990',
-               '1995': 'Year 1995',
-               '2000': 'Year 2000',
-               '2005': 'Year 2005',
-               '2010': 'Year 2010',
-               '2014': 'Year 2014'},
-        step=1
-    )
+                           marker=dict(color='red', size=12)
+                           )
 
-layout = html.Div([
 
-    html.H1('Countries Emissions'),
+    layout_scattergeo = dict(geo=dict(scope='world',
+                                      projection=dict(type='equirectangular'
+                                                      ),
+                                      showocean=True,
+                                      oceancolor='azure',
+                                      bgcolor='#f9f9f9',
+                                      ),
 
-    html.Div([
-        html.Div([
-            dropdown_country,
-            html.Br(),
-            radio_gas
-        ], style={'width': '20%', 'background-color': '#ffff00'}, className=''),
+                             title=dict(
+                                 text='',
+                                 x=.5
+                             ),
+                             paper_bgcolor='#ffffff',
+                             margin=dict(t=0, l=0, r=0, b=0)
+                             )
 
-        html.Div([
-            dcc.Graph(id='graph_example1')
-        ], style={'width': '80%'}, className='box')
-    ], style={'display': 'flex'}),
+    choropleth = go.Figure(data=data_scattergeo, layout=layout_scattergeo)
 
-    html.Div([
-        year_slider
-    ], className='box')
-])
+    return choropleth
 
-@app.app.callback(
-    Output('graph_example1', 'figure'),
-    [Input('country_drop', 'value'),
-     Input('gas_radio', 'value'),
-     Input('year_slider', 'value')]
-)
-def update_graph(countries, gas, year):
-    filtered_by_year_df = df[(df['year'] >= year[0]) & (df['year'] <= year[1])]
 
-    scatter_data = []
+layout = dbc.Container([
+            dbc.Row([
+                dbc.Col([
+                    html.H1('Racetracks', className="text-left")
+                ], width=12)
+            ]),
+            dbc.Row([
+                dbc.Col([
+                    html.H4('Hover above track locations to get more information:', className="text-left")
+                ], width=12)
+            ]),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dcc.Graph(figure=map(df), style={'height':560}),
+                        body=True, color="#31343b"
+                    )
+                ],width={'size':12}, className='my-2'),
+            ], className="mb-2"),
+            dbc.Row([
+                dbc.Col([
+                    html.H5('* Due to COVID-19 some tracks were repeated and in some locations'
+                            ' there may be more than one winner', className="text-center")
+                ], width=12)
+            ], className="mb-2"),
 
-    for country in countries:
-        filtered_by_year_and_country_df = filtered_by_year_df.loc[filtered_by_year_df['country_name'] == country]
-
-        temp_data = dict(
-            type='scatter',
-            y=filtered_by_year_and_country_df[gas],
-            x=filtered_by_year_and_country_df['year'],
-            name=country
-        )
-
-        scatter_data.append(temp_data)
-
-    scatter_layout = dict(xaxis=dict(title='Year'),
-                          yaxis=dict(title=gas)
-                          )
-
-    fig = go.Figure(data=scatter_data, layout=scatter_layout)
-
-    return fig
+], fluid=True)

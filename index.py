@@ -8,7 +8,6 @@ import constructors
 from app import app
 
 # Connect to your app pages
-#from apps import constructors
 import racetracks
 import drivers
 import constructors
@@ -49,7 +48,7 @@ logo = dbc.Navbar(
                 id="navbar-collapse2",
                 navbar=True,
             ),
-        ]
+        ],fluid=True
     ),
     color="#31343b",
     dark=True,
@@ -74,8 +73,7 @@ def render_page_content(pathname):
     elif pathname == "/constructors":
         return constructors.layout
     elif pathname == "/racetracks":
-        return racetracks.app.layout
-    # If the user tries to reach a different page, return a 404 message
+        return racetracks.layout
     return dbc.Jumbotron(
         [
             html.H1("404: Not found", className="text-danger"),

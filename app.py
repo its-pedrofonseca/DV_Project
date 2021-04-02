@@ -5,3 +5,6 @@ import dash_bootstrap_components as dbc
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 server = app.server
+
+app.config.suppress_callback_exceptions = True
+app.title = 'F1 2020'
