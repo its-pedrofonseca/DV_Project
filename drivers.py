@@ -71,10 +71,13 @@ driver_radio = dcc.RadioItems(
         {'label': 'Bottas ', 'value': 'Bottas'},
         {'label': 'Verstappen ', 'value': 'Verstappen'},
         {'label': 'Kvyat ', 'value': 'Kvyat'},
-        {'label': 'Hülkenberg ', 'value': 'Hülkenberg'}
+        {'label': 'Hülkenberg ', 'value': 'Hülkenberg'},
+        {'label': 'Fittipaldi ', 'value': 'Fittipaldi'},
+        {'label': 'Pérez ', 'value': 'Pérez'},
+        {'label': 'Aitken ', 'value': 'Aitken'}
     ],
     value='Ocon', labelStyle={'display': 'inline-block'},
-    inputStyle={"margin-right": "3px", "margin-left": "13px"},
+    inputStyle={"margin-right": "2px", "margin-left": "12px"},
     persistence=True,
     persistence_type='session'
 )
@@ -108,8 +111,16 @@ layout = dbc.Container([
             dbc.Row([
                 dbc.Col([
                     dropdown_driver,
-                ], width={'size':6})
+                ], width={'size':12})
             ]),
+            dbc.Row([
+                dbc.Col([
+                    html.H5('Cumulative Points per Race', className="text-center")
+                ],width=6),
+                dbc.Col([
+                    html.H5('Fastest Lap Time for each Race', className="text-center")
+                ],width=6)
+            ],className="mt-2"),
             dbc.Row([
                 dbc.Col([
                     dbc.Card(
@@ -117,15 +128,27 @@ layout = dbc.Container([
                         body=True, color="#31343b"
                     )
                 ],width={'size':6}, className='my-2'),
-                dbc.Col([
-                    dbc.Card(
-                        #dcc.Graph(figure=table_cons()), body=True, color="#31343b"
-                    )
-                ],width={'size':6})
+                #outro graf aqui
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
-                    driver_radio,
+                    html.H6('We can clearly observe the dominance of Mercedes over Ferrari,'
+                            ' into what has called the Ferrari Nightmare Decade. On the other hand, '
+                            'Red Bull Honda Racing was in 2nd place, trying to get the World Champions '
+                            'title that has been missing from them for the last few years.', className="text-center")
+                ], width=6),
+                dbc.Col([
+                    html.H6('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                ], width=6)
+            ], className="mt-2 mb-4"),
+            dbc.Row([
+                dbc.Col([
+                    html.H5('Lap Time Difference in seconds between selected Driver and Fastest Lap', className="text-center")
+                ],width=12),
+            ],className="mt-2"),
+            dbc.Row([
+                dbc.Col([
+                    html.Div(driver_radio, className="text-center"),
                 ], width={'size':12})
             ]),
             dbc.Row([
@@ -136,6 +159,12 @@ layout = dbc.Container([
                     )
                 ],width={'size':12})
             ], className="mb-2"),
+            dbc.Row([
+                dbc.Col([
+                    html.H6('* if time=200s then the Driver DNF (Did Not Finished)'
+                            ' or was ruled out by the 107% rule.', className="text-left"),
+                ], width=12),
+            ], className="mt-2"),
 
     ], fluid=True)
 
@@ -155,12 +184,15 @@ def update_graph(driver):
             name=drive
         )
         scatter_data.append(temp_data)
-    scatter_layout = dict(xaxis=dict(title='Race', showgrid=False),
-                          yaxis=dict(title='Points', showgrid=False),
+    scatter_layout = dict(xaxis=dict(title='Race'),
+                          yaxis=dict(title='Points'),
                           paper_bgcolor='rgba(255,255,255)',
                           plot_bgcolor='rgba(0,0,0,0)'
                           )
+
     fig = go.Figure(data=scatter_data, layout=scatter_layout)
+    fig.update_xaxes(showline=True, linewidth=1, linecolor='black')
+    fig.update_yaxes(showline=True, linewidth=1, linecolor='black')
     return fig
 
 @app.app.callback(
@@ -187,8 +219,10 @@ def graph2(driver):
         marker=dict(
             color='rgba(58, 71, 80, 0.6)',
             line=dict(color='rgba(58, 71, 80, 1.0)', width=3)
-        )
+        ),
     ))
-    fig.update_layout(barmode='stack')
+    fig.update_layout(barmode='stack',paper_bgcolor='rgba(255,255,255)',plot_bgcolor='rgba(0,0,0,0)', xaxis_title="Fastest Lap Time in Seconds",
+    yaxis_title="Race")
+    fig.update_xaxes( gridcolor='black', showgrid=True, gridwidth=0.5)
 
     return fig

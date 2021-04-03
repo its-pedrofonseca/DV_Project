@@ -65,7 +65,7 @@ team_radio = dcc.RadioItems(
         {'label': 'Racing Point ', 'value': 'Racing Point'},
     ],
     value='McLaren', labelStyle={'display': 'inline-block'},
-    inputStyle={"margin-right": "3px", "margin-left": "90px", },
+    inputStyle={"margin-right": "3px", "margin-left": "70px", },
     persistence=True,
     persistence_type='session',
 )
@@ -101,21 +101,40 @@ layout = dbc.Container([
             ]),
             dbc.Row([
                 dbc.Col([
+                    html.H5('Cumulative Points per Race', className="text-center")
+                ],width=6),
+                dbc.Col([
+                    html.H5('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                ],width=6)
+            ],className="mt-2"),
+            dbc.Row([
+                dbc.Col([
                     dbc.Card(
                         dcc.Graph(id='graph_Constructors', style={'height': 570}),
                         body=True, color="#31343b"
                     )
                 ],width={'size':6}, className='my-2'),
-                dbc.Col([
-                    dbc.Card(
-                        dcc.Graph(id='graph_Constructors', style={'height': 570}),
-                        body=True, color="#31343b"
-                    )
-                ], width={'size': 6}, className='my-2'),
+                #outro graf aqui
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
-                    team_radio,
+                    html.H6('We can clearly observe the dominance of Mercedes over Ferrari,'
+                            ' into what has been called the Ferrari Nightmare Decade. On the other hand, '
+                            'Red Bull Honda Racing was in 2nd place, trying to get the World Champions '
+                            'title that has been missing from them for the last few years.', className="text-center")
+                ], width=6),
+                dbc.Col([
+                    html.H6('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                ], width=6)
+            ], className="mt-2 mb-4"),
+            dbc.Row([
+                dbc.Col([
+                    html.H5('Fastest Lap Time Difference to Championship Winning Team', className="text-center")
+                ], width=12),
+            ], className="mt-2"),
+            dbc.Row([
+                dbc.Col([
+                    html.Div(team_radio, className="text-center"),
                 ], width={'size':12}),
             ]),
             dbc.Row([
@@ -152,6 +171,8 @@ def update_graph(team):
                           plot_bgcolor='rgba(0,0,0,0)'
                           )
     fig3 = go.Figure(data=scatter_data, layout=scatter_layout)
+    fig3.update_xaxes(showline=True, linewidth=1, linecolor='black')
+    fig3.update_yaxes(showline=True, linewidth=1, linecolor='black')
     return fig3
 
 @app.app.callback(
@@ -165,9 +186,11 @@ def graph2(team):
                   color='color',
 
                   color_discrete_sequence=selected_constructor_diff(team).color.unique(),
-                  title='Fastest Lap Time Difference to Championship winning team'
                   )
     fig2.update_xaxes(categoryorder='category ascending')
     fig2.update_traces(showlegend=False)
+    fig2.update_layout(barmode='stack',paper_bgcolor='rgba(255,255,255)',plot_bgcolor='rgba(0,0,0,0)',xaxis_title="Race",
+    yaxis_title="Time Difference in Seconds")
+    fig2.update_yaxes(gridcolor='black', showgrid=True, gridwidth=0.5)
 
     return fig2

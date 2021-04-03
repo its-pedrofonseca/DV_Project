@@ -27,7 +27,7 @@ h5{
 }
 
 h6{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    line-height: 1.4;
+    text-align: justify;
+    text-justify: inter-word;
 }

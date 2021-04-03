@@ -47,7 +47,7 @@ def table_cons():
 layout = dbc.Container([
             dbc.Row([
                 dbc.Col([
-                    html.H1('Home Page', className="text-left")
+                    html.H1('Home', className="text-left")
                 ],width=12)
             ]),
             dbc.Row([
@@ -131,5 +131,11 @@ layout = dbc.Container([
                     ], body=True, color="#31343b")
                 ], width={'size': 3}, className='my-2'),
             ], className="mb-2"),
-
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardImg(src="/assets/logos_horizontal.png", top=True),
+                    )
+                ], width=12)
+            ],className="mb-4"),
     ], fluid=True)
