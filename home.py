@@ -96,6 +96,14 @@ layout = dbc.Container([
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
+                    html.H5('The F1 grid is composed by 10 Teams that compete every year with each other trying to get the best '
+                            'classification possible. Each Team is composed by two Drivers, making a total of 20 drivers per race.'
+                            ' Nevertheless, there can be some replacements throughout the season in case of serious crashes or due to '
+                            'illness. In 2020, there was a total of 23 drivers.', className="mx-2 my-2")
+                ],width=12)
+            ]),
+            dbc.Row([
+                dbc.Col([
                     dbc.Card([
                         dbc.CardBody([
                             html.H2("55.404s", className="text-center"),
@@ -137,5 +145,13 @@ layout = dbc.Container([
                         dbc.CardImg(src="/assets/logos_horizontal.png", top=True),
                     )
                 ], width=12)
-            ],className="mb-4"),
+            ],className="mb-2"),
+            dbc.Row([
+                dbc.Col([
+                    html.H6('Datasets: https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020', className="text-left")
+                ],width=6),
+                dbc.Col([
+                    html.H6('Members: Frederico Rodrigues - m2020583, Gonçalo Carvalho - m2020664, Pedro Fonseca - m20201037', className="text-right")
+                ],width=6)
+            ]),
     ], fluid=True)

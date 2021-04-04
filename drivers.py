@@ -118,7 +118,7 @@ layout = dbc.Container([
                     html.H5('Cumulative Points per Race', className="text-center")
                 ],width=6),
                 dbc.Col([
-                    html.H5('Fastest Lap Time for each Race', className="text-center")
+                    html.H5('Final Position per Race', className="text-center")
                 ],width=6)
             ],className="mt-2"),
             dbc.Row([
@@ -128,17 +128,19 @@ layout = dbc.Container([
                         body=True, color="#31343b"
                     )
                 ],width={'size':6}, className='my-2'),
-                #outro graf aqui
+                dbc.Col([
+                    dbc.Card(
+                        dcc.Graph(id='graph_rank', style={'height': 570}),
+                        body=True, color="#31343b"
+                    )
+                ], width={'size': 6}, className='my-2'),
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
-                    html.H6('We can clearly observe the dominance of Mercedes over Ferrari,'
-                            ' into what has called the Ferrari Nightmare Decade. On the other hand, '
-                            'Red Bull Honda Racing was in 2nd place, trying to get the World Champions '
-                            'title that has been missing from them for the last few years.', className="text-center")
+                    html.H6("* if the Driver didn't participate in the race, no information will be presented", className="text-center")
                 ], width=6),
                 dbc.Col([
-                    html.H6('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                    html.H6('* if rank=0, then the Driver Did Not Finished (DNF)', className="text-center")
                 ], width=6)
             ], className="mt-2 mb-4"),
             dbc.Row([
@@ -162,9 +164,16 @@ layout = dbc.Container([
             dbc.Row([
                 dbc.Col([
                     html.H6('* if time=200s then the Driver DNF (Did Not Finished)'
-                            ' or was ruled out by the 107% rule.', className="text-left"),
+                            ' or was declassified by the 107% rule.', className="text-left"),
                 ], width=12),
             ], className="mt-2"),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardImg(src="/assets/logos_horizontal.png", top=True),
+                    )
+                ], width=12)
+            ], className="mb-2"),
 
     ], fluid=True)
 
@@ -175,6 +184,7 @@ layout = dbc.Container([
 )
 def update_graph(driver):
     scatter_data = []
+
     for drive in driver:
         df_s = df.loc[df['surname'] == drive]
         temp_data = dict(
@@ -193,6 +203,33 @@ def update_graph(driver):
     fig = go.Figure(data=scatter_data, layout=scatter_layout)
     fig.update_xaxes(showline=True, linewidth=1, linecolor='black')
     fig.update_yaxes(showline=True, linewidth=1, linecolor='black')
+    return fig
+
+@app.app.callback(
+    Output('graph_rank', 'figure'),
+    Input('driver_drop', 'value')
+)
+def update_graph2(driver):
+    scatter_data = []
+
+    for drive in driver:
+        df_s = df.loc[df['surname'] == drive]
+        temp_data = dict(
+            type='scatter',
+            y=df_s['rank'],
+            x=df_s['name_x'],
+            name=drive
+        )
+        scatter_data.append(temp_data)
+    scatter_layout = dict(xaxis=dict(title='Race'),
+                          yaxis=dict(title='Drivers Ranks'),
+                          paper_bgcolor='rgba(255,255,255)',
+                          plot_bgcolor='rgba(0,0,0,0)'
+                          )
+
+    fig = go.Figure(data=scatter_data, layout=scatter_layout)
+    fig.update_xaxes(showline=True, linewidth=1, linecolor='black')
+    fig.update_yaxes(showline=True, linewidth=1, linecolor='black', autorange="reversed")
     return fig
 
 @app.app.callback(

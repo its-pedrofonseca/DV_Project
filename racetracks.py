@@ -117,15 +117,22 @@ layout = dbc.Container([
             dbc.Row([
                 dbc.Col([
                     dbc.Card(
-                        dcc.Graph(figure=map(df), style={'height':560}),
+                        dcc.Graph(figure=map(df), style={'height':580}),
                         body=True, color="#31343b"
                     )
                 ],width={'size':12}, className='my-2'),
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
-                    html.H5('* Due to COVID-19 some tracks were repeated and in some locations'
+                    html.H6('* Due to COVID-19 some tracks were repeated and in some locations'
                             ' there may be more than one winner', className="text-center")
+                ], width=12)
+            ], className="mb-2"),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Card(
+                        dbc.CardImg(src="/assets/logos_horizontal.png", top=True),
+                    )
                 ], width=12)
             ], className="mb-2"),
 

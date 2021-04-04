@@ -22,6 +22,8 @@ df = pd.read_excel(path)
 df_constructors = pd.read_csv('datasets/f1_2020_constructors.csv', error_bad_lines=False)
 df_drivers = pd.read_csv('datasets/f1_2020_drivers_fred.csv', error_bad_lines=False)
 
+df_drivers2 = pd.read_csv('datasets/f1_2020_constructors.csv', error_bad_lines=False)
+
 df_drivers['date'] = pd.to_datetime(df_drivers['date'])
 df_drivers = df_drivers.sort_values(by='date')
 pistas = df_drivers.name_x.unique()
@@ -77,7 +79,7 @@ team_options = [
 dropdown_team = dcc.Dropdown(
     id='team_drop',
     options=team_options,
-    value=['Mercedes', 'Ferrari'],
+    value=['Mercedes', 'Red Bull'],
     multi=True,
     persistence=True,
     persistence_type='session'
@@ -104,7 +106,7 @@ layout = dbc.Container([
                     html.H5('Cumulative Points per Race', className="text-center")
                 ],width=6),
                 dbc.Col([
-                    html.H5('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                    html.H5('Constructors Rank per Race', className="text-center")
                 ],width=6)
             ],className="mt-2"),
             dbc.Row([
@@ -114,17 +116,19 @@ layout = dbc.Container([
                         body=True, color="#31343b"
                     )
                 ],width={'size':6}, className='my-2'),
-                #outro graf aqui
+                dbc.Col([
+                    dbc.Card(
+                        dcc.Graph(id='graph_Constructors2', style={'height': 570}),
+                        body=True, color="#31343b"
+                    )
+                ], width={'size': 6}, className='my-2'),
             ], className="mb-2"),
             dbc.Row([
                 dbc.Col([
-                    html.H6('We can clearly observe the dominance of Mercedes over Ferrari,'
-                            ' into what has been called the Ferrari Nightmare Decade. On the other hand, '
-                            'Red Bull Honda Racing was in 2nd place, trying to get the World Champions '
-                            'title that has been missing from them for the last few years.', className="text-center")
+                    html.H6()
                 ], width=6),
                 dbc.Col([
-                    html.H6('Fastest Lap Times for Both Drivers for each Race', className="text-center")
+                    html.H6()
                 ], width=6)
             ], className="mt-2 mb-4"),
             dbc.Row([
@@ -145,6 +149,13 @@ layout = dbc.Container([
                     )
                 ],width={'size':12})
             ], className="mb-2"),
+    dbc.Row([
+        dbc.Col([
+            dbc.Card(
+                dbc.CardImg(src="/assets/logos_horizontal.png", top=True),
+            )
+        ], width=12)
+    ], className="mb-2"),
 
 
 
@@ -176,19 +187,44 @@ def update_graph(team):
     return fig3
 
 @app.app.callback(
+    Output('graph_Constructors2', 'figure'),
+    Input('team_drop', 'value')
+)
+def update_graph2(team):
+    scatter_data = []
+    for tea in team:
+        df_s = df.loc[df['name_y'] == tea]
+        temp_data = dict(
+            type='scatter',
+            y=df_s['position'],
+            x=df_s['name_x'],
+            name=tea
+        )
+        scatter_data.append(temp_data)
+    scatter_layout = dict(xaxis=dict(title='Race', showgrid=False),
+                          yaxis=dict(title='Constructors Rank', showgrid=False),
+                          paper_bgcolor='rgba(255,255,255)',
+                          plot_bgcolor='rgba(0,0,0,0)'
+                          )
+    fig4 = go.Figure(data=scatter_data, layout=scatter_layout)
+    fig4.update_xaxes(showline=True, linewidth=1, linecolor='black')
+    fig4.update_yaxes(showline=True, linewidth=1, linecolor='black',  autorange="reversed")
+    return fig4
+
+pistas = df_drivers2["name_x"].unique()
+
+@app.app.callback(
     Output('graph_time', 'figure'),
     Input('radio-items', 'value')
 )
 def graph2(team):
     fig2 = px.bar(selected_constructor_diff(team),
-                  x=pistas_fl.name_x.unique(),
+                  x=pistas,
                   y='Time Difference (s)',
                   color='color',
-
                   color_discrete_sequence=selected_constructor_diff(team).color.unique(),
                   )
-    fig2.update_xaxes(categoryorder='category ascending')
-    fig2.update_traces(showlegend=False)
+    fig2.update_traces(showlegend = False)
     fig2.update_layout(barmode='stack',paper_bgcolor='rgba(255,255,255)',plot_bgcolor='rgba(0,0,0,0)',xaxis_title="Race",
     yaxis_title="Time Difference in Seconds")
     fig2.update_yaxes(gridcolor='black', showgrid=True, gridwidth=0.5)

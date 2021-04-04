@@ -340,3 +340,53 @@ Column1,raceId,year,round,circuitId,name_x,date,resultId,driverId,constructorId,
 337,1047,2020,17,24,Abu Dhabi Grand Prix,44178,24952,817,4,7,7,55,1,100.926,198.109,ricciardo,3,RIC,Daniel,Ricciardo,Renault,Australian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
 338,1047,2020,17,24,Abu Dhabi Grand Prix,44178,24946,830,9,1,25,55,2,100.958,198.046,max_verstappen,33,VER,Max,Verstappen,Red Bull,Dutch,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
 339,1047,2020,17,24,Abu Dhabi Grand Prix,44178,24964,850,210,19,0,53,8,101.707,196.588,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,Haas,Brazilian,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
+30,1047,2020,17,24,Abu Dhabi Grand Prix,44178,24641,154,210,\N,0,49,17,200,221.347,grosjean,8,GRO,Romain,Grosjean,Haas,French,Red Bull Ring,Spielburg,Austria,47.2197,14.7647
+318,1047,2020,17,24,Abu Dhabi Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+309,1046,2020,16,,Sakhir Grand Prix,44164,24925,154,210,\N,0,0,0,200,\N,grosjean,8,GRO,Romain,Grosjean,Haas,French,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+312,1045,2020,11,,Eifel Grand Prix,44164,24924,840,211,\N,0,2,0,200,\N,stroll,18,STR,Lance,Stroll,Racing Point,Canadian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+325,1047,2020,4,,British Grand Prix,44178,24965,815,211,\N,0,8,19,200,193.625,perez,11,PER,Sergio,Pérez,Racing Point,Mexican,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
+325,1047,2020,5,,70th Anniversary Grand Prix,44178,24965,815,211,\N,0,8,19,200,193.625,perez,11,PER,Sergio,Pérez,Racing Point,Mexican,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
+318,1046,2020,1,3,Austrian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,2,3,Styrian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,3,3,Hungarian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,4,3,British Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,5,3,70th Anniversary Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,6,3,Spanish Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,7,3,Belgian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,8,3,Italian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,9,3,Tuscan Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,10,3,Russian Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,11,3,Eifel Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,12,3,Portuguese Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,13,3,Emilia Romagna Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,14,3,Turkish Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+318,1046,2020,15,3,Bahrain Grand Prix,44171,24941,851,3,16,0,87,15,200,222.24,aitken,89,AIT,Jack,Aitken,Williams Racing,British,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,1,3,Austrian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,2,3,Styrian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,52,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,3,3,Hungarian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,53,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,4,3,British Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,54,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,5,3,70th Anniversary Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,55,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,6,3,Spanish Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,56,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,7,3,Belgian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,57,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,8,3,Italian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,58,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,9,3,Tuscan Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,59,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,10,3,Russian Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,60,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,11,3,Eifel Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,61,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,12,3,Portuguese Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,62,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,13,3,Emilia Romagna Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,63,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,14,3,Turkish Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,64,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+319,1046,2020,15,3,Bahrain Grand Prix,44171,24942,850,210,17,0,87,17,200,220.892,pietro_fittipaldi,65,FIT,Pietro,Fittipaldi,Haas,Brazilian,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+98,1034,2020,1,9,Austrian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,27,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,2,9,Styrian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,28,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,3,9,Hungarian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,29,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,6,9,Spanish Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,30,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,7,9,Belgian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,31,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,8,9,Italian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,32,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,9,9,Tuscan Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,33,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,10,9,Russian Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,34,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,12,9,Portuguese Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,35,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,13,9,Emilia Romagna Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,36,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,14,9,Turkish Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,37,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,15,9,Bahrain Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,38,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,16,9,Sakhir Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,39,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+98,1034,2020,17,9,Abu Dhabi Grand Prix,44045,24705,807,211,\N,0,0,0,200,\N,hulkenberg,40,HUL,Nico,Hülkenberg,Racing Point,German,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
